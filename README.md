@@ -2,7 +2,7 @@
 🎓 Undergraduate | 💻 Systems and Programming  
 Interested in C, Python, and hardware-software interaction.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](YOUR_BLUESKY_LINK_HERE)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK_HERE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-imran-6b700539)
@@ -12,7 +12,7 @@ Interested in C, Python, and hardware-software interaction.
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](YOUR_REDDIT_LINK_HERE)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/YOUR_PHONE_NUMBER)
 
-
+<br>
 # 💻 Tech Stack:
 
 ### Languages
