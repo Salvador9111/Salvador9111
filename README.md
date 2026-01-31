@@ -41,6 +41,84 @@ Interested in C, Python, and hardware-software interaction.
 ![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Noice (or Your Project / Profile Title)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&layout=compact&theme=radical)](https://github.com/Salvador9111)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Salvador9111&theme=radical&show_icons=true)](https://github.com/Salvador9111)
+
+Hi — I’m Salvador (or Hammad) 👋  
+Undergraduate student focused on systems programming and embedded hardware-software interaction. I enjoy C and Python and building small, high-performance systems.
+
+---
+
+## About
+Short 1–2 sentence description of what you build, your current focus, or what this repo is for. Example:
+- "I build embedded C projects and low-level tools. This repo hosts my experiments, small utilities, and learning projects."
+
+## Demo / Screenshot
+Add a small GIF or image showing your project/profile:
+- Use an optimized GIF or PNG stored in the repo (e.g., `.github/assets/demo.gif`)
+- Add alt text for accessibility.
+
+Example:
+![demo alt text](.github/assets/demo.gif)
+
+## Tech Stack
+A compact list or small table of what you use most often:
+
+- Languages: C, Python
+- Tools: Git, Make, GCC
+- OS: Linux, Windows
+- Databases / Others: MySQL, (only if relevant)
+
+(Use smaller badge images or a neat table instead of many long badges.)
+
+## Featured Projects (or Pinned)
+- Project A — short description + link
+- Project B — short description + link
+
+(If this is a profile README, pin these repos on your GitHub profile too.)
+
+## Installation / Running (if this is a project repo)
+Quick start — commands users need to run:
+
+```bash
+git clone https://github.com/Salvador9111/Noice.git
+cd Noice
+# build or run steps
+make
+./bin/noice
+```
+
+Provide examples and expected output.
+
+## Contributing
+If you accept contributions, add a simple contribution guide or link to CONTRIBUTING.md:
+- Fork the repo
+- Create a feature branch
+- Send a PR with a clear description and tests (if relevant)
+
+Consider adding issue and PR templates.
+
+## License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+## Contact / Socials
+Replace placeholders with your real links or remove them if you don’t want to share:
+
+- LinkedIn: https://www.linkedin.com/in/hammad-imran-6b700539
+- Email: your.email@example.com
+- WhatsApp (if public contact is required): https://wa.me/YOUR_PHONE_NUMBER
+- Twitter / Bluesky / Instagram / Discord: (links)
+
+## Extras / Nice-to-have
+- Add GitHub Actions to run tests/builds and show a build status badge.
+- Add Dependabot for dependency updates.
+- Add CODE_OF_CONDUCT.md and CONTRIBUTING.md.
+- Add a changelog (CHANGELOG.md) and releases (GitHub Releases).
+- Use smaller, optimized images and SVG badges from Shields.io.
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
