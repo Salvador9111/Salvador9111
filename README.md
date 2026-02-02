@@ -1,4 +1,3 @@
-
 <!-- Profile Banner - Replace with your own image or remove if preferred -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hammad%20Imran&fontSize=80&fontAlignY=35&animation=twinkling&desc=Systems%20%7C%20Programming%20%7C%20Hardware-Software%20Interaction&descAlignY=55&descSize=20" alt="Header Banner" />
@@ -6,24 +5,10 @@
 <!-- Dynamic Typing Introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Undergraduate+Computer+Science+Student;Systems+%26+Low-Level+Programming+Enthusiast;C+%7C+Python+%7C+Embedded+Systems;Always+learning%2C+always+building..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Undergraduate+Computer+Science+Student;Systems+%26+Mid-Level+Programming+Enthusiast;C+%7C+Python+%7C+Embedded+Systems;Always+learning%2C+always+building..." alt="Typing SVG" />
   </a>
 </div>
-<!-- Social Links - Only including LinkedIn since others were placeholders -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/hammad-imran-6b700539" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="mailto:hammad@example.com"> <!-- Replace with your actual email -->
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/YOUR_PHONE_NUMBER" target="_blank"> <!-- Update phone number -->
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp" />
-  </a>
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"> <!-- Update Discord ID -->
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
-  </a>
-</div>
+
 
 # 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](YOUR_BLUESKY_LINK_HERE)
