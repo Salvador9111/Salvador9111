@@ -184,7 +184,7 @@ https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreof
 🚀 Featured Projects
 <div align="center">
 <!-- Project 1 -->
-<a href="https://github.com/Salvador9111/PROJECT_REPO_1">
+<a href="https://github.com/Salvador9111/Salvador9111">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Salvador9111&repo=PROJECT_REPO_1&theme=radical&hide_border=true&bg_color=0D1117" />
 </a>
 <!-- Project 2 -->
