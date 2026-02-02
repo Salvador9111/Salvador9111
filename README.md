@@ -90,25 +90,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salvador9111&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="General Stats" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  
-  <br/>
-  
-  <img width="90%" src="https://streak-stats.demolab.com?user=Salvador9111&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
-</div>
-
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Salvador9111&icon=0&color=5)](https://visitcount.itsvg.in)
-
-
-
-
-
