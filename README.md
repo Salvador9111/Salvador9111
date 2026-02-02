@@ -1,3 +1,13 @@
+# ðŸ“Š GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false  )<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false  )<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact  )
+
+
+
+
+
+
 ## Hi 👋 I'm Hammad  
 🎓 Undergraduate | 💻 Systems and Programming  
 Interested in C, Python, and hardware-software interaction.
@@ -68,10 +78,6 @@ Interested in C, Python, and hardware-software interaction.
 
 
 
-Hammad's Social Profile
-## Hi ðŸ‘‹ I'm Hammad  
-ðŸŽ“ Undergraduate | ðŸ’» Systems and Programming  
-Interested in C, Python, and hardware-software interaction.
 
 
 
@@ -79,11 +85,6 @@ Interested in C, Python, and hardware-software interaction.
 
 
 
-
-# ðŸ“Š GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false  )<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false  )<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact  )
 
 
 [![](https://visitcount.itsvg.in/api?id=Salvador9111&icon=0&color=5  )](https://visitcount.itsvg.in  )this is my GitHub profile, how can I improve it , how to make it appealing, do it for me
