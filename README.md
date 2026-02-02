@@ -9,7 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Undergraduate+Computer+Science+Student;Systems+%26+Low-Level+Programming+Enthusiast;C+%7C+Python+%7C+Embedded+Systems;Always+learning%2C+always+building..." alt="Typing SVG" />
   </a>
 </div>
-
 <!-- Social Links - Only including LinkedIn since others were placeholders -->
 <div align="center">
   <a href="https://www.linkedin.com/in/hammad-imran-6b700539" target="_blank">
@@ -25,14 +24,6 @@
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
   </a>
 </div>
-
-<br/>
-
-
-
-## Hi 👋 I'm Hammad  
-🎓 Undergraduate | 💻 Systems and Programming  
-Interested in C, Python, and hardware-software interaction.
 
 # 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](YOUR_BLUESKY_LINK_HERE)
