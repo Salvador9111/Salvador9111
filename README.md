@@ -90,6 +90,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salvador9111&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="General Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  
+  <br/>
+  
+  <img width="90%" src="https://streak-stats.demolab.com?user=Salvador9111&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+</div>
+
+
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -100,57 +112,3 @@
 
 
 
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hammad%20Imran&fontSize=80&fontAlignY=35&animation=twinkling&desc=Systems%20%7C%20Programming%20%7C%20Hardware-Software%20Interaction&descAlignY=55&descSize=20" alt="Header Banner" />
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Undergraduate+Computer+Science+Student;Systems+%26+Mid-Level+Programming+Enthusiast;C+%7C+Python+%7C+Embedded+Systems;Always+learning%2C+always+building..." alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://wa.me/YOUR_PHONE_NUMBER">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="YOUR_INSTAGRAM_LINK_HERE">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="YOUR_BLUESKY_LINK_HERE">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hammad-imran-6b700539">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="YOUR_DISCORD_INVITE_LINK">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="YOUR_PINTEREST_LINK_HERE">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"/>
-  </a>
-  <a href="YOUR_REDDIT_LINK_HERE">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/>
-  </a>
-</div>
-<br/>
-
-```c
-typedef struct {
-    char* name;
-    char* role;
-    char* languages[3];
-    char* interests;
-    char* currently_learning;
-} Developer;
-
-Developer hammad = {
-    .name = "Hammad Imran",
-    .role = "Undergraduate | Systems Programmer",
-    .languages = {"C", "Python", "HTML/CSS"},
-    .interests = "Hardware-Software Interaction, Embedded Systems",
-    .currently_learning = "Low-level optimization & System Architecture"
-};
