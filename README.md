@@ -1,9 +1,8 @@
-# ðŸ“Š GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false  )<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false  )<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact  )
 
-
+<!-- Profile Banner - Replace with your own image or remove if preferred -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hammad%20Imran&fontSize=80&fontAlignY=35&animation=twinkling&desc=Systems%20%7C%20Programming%20%7C%20Hardware-Software%20Interaction&descAlignY=55&descSize=20" alt="Header Banner" />
+</div>
 
 
 
@@ -97,11 +96,6 @@ Create Clean Student Portfolio with Social Links and Visitor Counter
 Here's a complete redesign that transforms your profile from a "badge list" into a personal brand showcase. I've organized it with visual hierarchy, removed placeholders, and added interactive elements.
 markdown
 Copy
-<!-- Profile Banner - Replace with your own image or remove if preferred -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hammad%20Imran&fontSize=80&fontAlignY=35&animation=twinkling&desc=Systems%20%7C%20Programming%20%7C%20Hardware-Software%20Interaction&descAlignY=55&descSize=20" alt="Header Banner" />
-</div>
-
 <!-- Dynamic Typing Introduction -->
 <div align="center">
   <a href="https://git.io/typing-svg">
