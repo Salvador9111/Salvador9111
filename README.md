@@ -129,6 +129,8 @@ https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME
 
 
 
+![Contribution Snake](https://github.com/Salvador9111/Salvador9111/blob/output/github-contribution-grid-snake.svg)
+
 name: Generate Snake Animation
 
 on:
