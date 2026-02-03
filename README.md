@@ -73,4 +73,145 @@
 
 
 
+<!-- Profile Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2AA889,50:0D7377,100:14919b&height=200&section=header&text=Hammad%20Imran&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Systems%20%7C%20Programming%20%7C%20Hardware-Software%20Interaction&descAlignY=55&descSize=18&fontColor=ffffff" alt="Header Banner" />
+  
+  <br/>
+  
+  <!-- Animated Typing -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=650&lines=Undergraduate+Software+Engineering+Student;Systems+%26+Mid-Level+Programming+Enthusiast;C+%7C+Python+%7C+HTML+%7C+CSS;Always+learning%2C+always+building...;Turning+ideas+into+code+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Social Links with Hover Effect -->
+<div align="center">
+  
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](https://wa.me/YOUR_PHONE_NUMBER)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](YOUR_INSTAGRAM_LINK_HERE)
+  [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=0285FF)](YOUR_BLUESKY_LINK_HERE)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/hammad-imran-6b700539)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](YOUR_DISCORD_INVITE_LINK)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:YOUR_EMAIL_HERE)
+  [![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=Pinterest&logoColor=white&labelColor=E60023)](YOUR_PINTEREST_LINK_HERE)
+  [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=FF4500)](YOUR_REDDIT_LINK_HERE)
+  
+</div>
+
+<br/>
+
+<!-- Profile Views & Trophies -->
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Salvador9111&color=2AA889&style=for-the-badge&label=PROFILE+VIEWS)
+  [![GitHub followers](https://img.shields.io/github/followers/Salvador9111?color=2AA889&label=Followers&style=for-the-badge)](https://github.com/Salvador9111)
+  [![GitHub stars](https://img.shields.io/github/stars/Salvador9111?color=2AA889&label=Stars&style=for-the-badge)](https://github.com/Salvador9111)
+  
+</div>
+
+<br/>
+
+---
+
+## 🚀 About Me
+
+```python
+class HammadImran:
+    def __init__(self):
+        self.name = "Hammad Imran"
+        self.role = "Software Engineering Student"
+        self.location = "🌍 Your Location"
+        self.interests = ["Systems Programming", "Hardware-Software", "Low-level Code"]
+        self.current_focus = "Building efficient systems"
+        
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something amazing together 🚀")
+
+me = HammadImran()
+me.say_hi()
+<br/>
+🎯 Current Focus
+🔭 Working on Systems Programming Projects
+🌱 Learning Advanced C & Python
+💡 Exploring Hardware-Software Interaction
+🤝 Open to collaborating on Open Source Projects
+⚡ Fun fact: I debug with printf and I'm not ashamed 😄
+<br/>
+🛠️ Tech Stack
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br>
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+</details>
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white
+</details>
+<details open>
+<summary><b>⚙️ Tools & Environments</b></summary>
+<br>
+https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
+https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white
+https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
+</details>
+<details open>
+<summary><b>💻 Operating Systems</b></summary>
+<br>
+https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+</details>
+<br/>
+📊 GitHub Analytics
+<div align="center">
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salvador9111&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2AA889&icon_color=2AA889&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2AA889&text_color=C9D1D9" />
+</div>
+<br/>
+<div align="center">
+  <!-- GitHub Streak -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=true&background=0D1117&stroke=2AA889&ring=2AA889&fire=2AA889&currStreakLabel=2AA889" alt="GitHub Streak" />
+</div>
+<br/>
+<!-- GitHub Trophies -->
+<div align="center">
+https://github-profile-trophy.vercel.app/?username=Salvador9111&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1
+</div>
+<br/>
+<!-- Contribution Graph -->
+<div align="center">
+https://github.com/ashutosh00710/github-readme-activity-graph
+</div>
+<br/>
+🎧 Spotify Playing
+<div align="center">
+https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME
+</div>
+<br/>
+✍️ Dev Quote of the Day
+<div align="center">
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=false
+</div>
+<br/>
+🐍 Contribution Snake
+<div align="center">
+https://github.com/Salvador9111/Salvador9111/blob/output/github-contribution-grid-snake.svg
+</div>
+<br/>
+<div align="center">
+⭐ Star some repositories if you find them interesting! ⭐
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14919b,50:0D7377,100:2AA889&height=120&section=footer&animation=fadeIn" alt="Footer" />
+</div>
 
