@@ -61,6 +61,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -68,15 +69,7 @@
 [![](https://visitcount.itsvg.in/api?id=Salvador9111&icon=0&color=5)](https://visitcount.itsvg.in)
 
 
-
-
-
-
 # 🐍Snake
 ![Contribution Snake](https://github.com/Salvador9111/Salvador9111/blob/output/github-contribution-grid-snake.svg)
-<div align="center">
-  <img src="https://github.com/Salvador9111/Salvador9111/blob/output/github-contribution-grid-snake.svg"
-       width="720" />
-</div>
 
    
