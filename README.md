@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hammad%20Imran&fontSize=80&fontAlignY=35&animation=twinkling&desc=Systems%20%7C%20Programming%20%7C%20Hardware-Software%20Interaction&descAlignY=55&descSize=20" alt="Header Banner" />
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Systems+%26+Mid-Level+Programming+Enthusiast;C+%7C+Python+%7C+HTML+%7CCSS;Always+learning%2C+always+building..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Systems+%26+Mid-Level+Programming+Enthusiast;C+%7C+Python+%7C+HTML+%7C+CSS;Always+learning%2C+always+building..." alt="Typing SVG" />
   </a>
 </div>
 
