@@ -73,3 +73,7 @@
 ![Contribution Snake](https://github.com/Salvador9111/Salvador9111/blob/output/github-contribution-grid-snake.svg)
 
    
+# ■ My GitHub Activity Game
+<p align="center">
+ <img src="assets/space-shooter.gif" />
+</p>
