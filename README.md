@@ -71,7 +71,7 @@
 
 # 🐍Snake
 ![Contribution Snake](https://github.com/Salvador9111/Salvador9111/blob/output/github-contribution-grid-snake.svg)
-
+<br/><br/>
    
 # 🚀My GitHub Activity 
 ![Space Shooter](assets/space-shooter.gif)
