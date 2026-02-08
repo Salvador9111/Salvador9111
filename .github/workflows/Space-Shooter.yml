@@ -2,9 +2,8 @@ name: Update Space Shooter GIF
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
-
 
 permissions:
   contents: write
@@ -12,8 +11,10 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Create assets directory
         run: mkdir -p assets
