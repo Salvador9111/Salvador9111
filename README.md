@@ -63,8 +63,8 @@
 
 
 # ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=cyberpunk)
 ---
 [![](https://visitcount.itsvg.in/api?id=Salvador9111&icon=0&color=5)](https://visitcount.itsvg.in)
 
