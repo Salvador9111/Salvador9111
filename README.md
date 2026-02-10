@@ -63,7 +63,7 @@
 
 
 # ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Salvador9111&icon=0&color=5)](https://visitcount.itsvg.in)
@@ -77,6 +77,5 @@
 ![Space Shooter](assets/space-shooter.gif)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
