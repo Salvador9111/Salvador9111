@@ -78,6 +78,4 @@
 
 
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&vCenter=true&width=435&lines=Code+is+poetry.;Stay+hungry%2C+stay+foolish.;Hello%2C+World!" alt="Typing SVG" />
-</a>
+![Programming Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
