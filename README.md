@@ -78,4 +78,6 @@
 
 
 
-![Programming Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=18&duration=3500&pause=1000&color=FE428E&background=141321&center=true&vCenter=true&width=500&lines=First,+solve+the+problem.+Then,+write+the+code.;Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.;Simplicity+is+the+soul+of+efficiency.;Make+it+work,+make+it+right,+make+it+fast." alt="Typing SVG" />
+</a>
