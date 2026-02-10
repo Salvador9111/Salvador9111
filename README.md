@@ -78,4 +78,3 @@
 
 
 
-<img align="right" width="375" src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=600&size=18&duration=3500&pause=1000&color=FE428E&background=141321&center=true&vCenter=true&width=375&lines=First,+solve+the+problem.;Then,+write+the+code.;Simplicity+is+the+soul+of+efficiency.;Make+it+work,+make+it+right,+make+it+fast." alt="Animated Quotes" />
