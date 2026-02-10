@@ -76,3 +76,6 @@
 # 🚀My GitHub Activity 
 ![Space Shooter](assets/space-shooter.gif)
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=F75C7E&center=true&vCenter=true&width=800&lines=You+said+I+dream+too+big.;I+said+you+think+too+small.;Dream+big.+Think+bigger.;Stay+hungry.+Stay+curious.)](https://git.io/typing-svg)
+
