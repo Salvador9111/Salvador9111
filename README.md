@@ -18,7 +18,7 @@
 </div>
 
 <p align="left">
-  <a href="https://dev.to/hammad">
+  <a href="https://dev.to/Salvador9111">
     <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
   </a>
 
