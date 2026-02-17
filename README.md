@@ -4,12 +4,14 @@
 <br/><br/>
 
 
+<div align="right">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hammad%20Imran&fontSize=80&fontAlignY=35&animation=twinkling&desc=Systems%20%7C%20Programming%20%7C%20Hardware-Software%20Interaction&descAlignY=55&descSize=20" alt="Header Banner" />
 </div>
-
-<div align="right">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
  
   <a href="https://git.io/typing-svg">
