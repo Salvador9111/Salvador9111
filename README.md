@@ -13,7 +13,7 @@
 
 
 <div align="right">
-  <img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img align="right" width="270" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
  
   <a href="https://git.io/typing-svg">
