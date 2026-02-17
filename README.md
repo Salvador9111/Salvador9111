@@ -6,12 +6,6 @@
 
 
 
-
-<div align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hammad%20Imran&fontSize=60&fontAlignY=35&animation=twinkling&desc=Systems%20%7C%20Programming%20%7C%20Hardware-Software%20Interaction&descAlignY=55&descSize=20" alt="Header Banner" />
-</div>
-
-
 <div align="left">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hammad%20Imran&fontSize=60&fontAlignY=35&animation=twinkling&desc=Systems%20%7C%20Programming%20%7C%20Hardware-Software%20Interaction&descAlignY=55&descSize=20"
