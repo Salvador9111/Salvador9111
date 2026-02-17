@@ -105,7 +105,7 @@
 <!-- ===================== NAME (CENTERED) ===================== -->
 <div align="center">
   <h1>Hammad Imran</h1>
-  <hr style="width:180px;border:2px solid #2AA889;">
+  <img src="https://img.shields.io/badge/─-2AA889?style=for-the-badge&labelColor=2AA889&color=2AA889" width="180"/>
 </div>
 
 <br/>
@@ -146,10 +146,11 @@
 
     </td>
 
-    <!-- RIGHT ROBOT ONLY -->
+    <!-- RIGHT ROBOT (ONLY) -->
     <td width="30%" align="center">
       <img width="300"
-           src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+           src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
+           alt="Assistant Robot"/>
     </td>
   </tr>
 </table>
@@ -191,14 +192,14 @@
 
 <br/>
 
-<!-- ===================== QUOTE ===================== -->
+<!-- ===================== RANDOM QUOTE (LEFT ALIGNED) ===================== -->
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
-<!-- ===================== SNAKE ===================== -->
-## 🐍 Contribution Snake
+<!-- ===================== SNAKE (LEFT ALIGNED) ===================== -->
+## 🐍 Snake
 ![Snake](https://github.com/Salvador9111/Salvador9111/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
@@ -211,3 +212,4 @@
 
 <!-- ===================== VISITS ===================== -->
 [![](https://visitcount.itsvg.in/api?id=Salvador9111&icon=0&color=5)](https://visitcount.itsvg.in)
+
