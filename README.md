@@ -97,10 +97,21 @@
 
 
 
-<!-- Intro Section -->
+<!-- ===================== PROFILE BANNER ===================== -->
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<br/><br/>
+
+<!-- ===================== CAPSULE HEADER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hammad%20Imran&fontSize=80&fontAlignY=35&animation=twinkling&desc=Systems%20%7C%20Programming%20%7C%20Hardware-Software%20Interaction&descAlignY=55&descSize=20" alt="Header Banner" />
+</div>
+
+<br/>
+
+<!-- ===================== INTRO SECTION ===================== -->
 <table width="100%">
   <tr>
-    <!-- LEFT: Text + Typing + Socials -->
+    <!-- LEFT SIDE -->
     <td width="65%" valign="middle">
 
 <a href="https://git.io/typing-svg">
@@ -141,7 +152,7 @@
 
     </td>
 
-    <!-- RIGHT: Robot -->
+    <!-- RIGHT SIDE -->
     <td width="35%" align="center">
       <img width="320"
            src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"
@@ -150,6 +161,66 @@
   </tr>
 </table>
 
-<br/><br/>
-<hr/>
+<br/><hr/><br/>
+
+<!-- ===================== TECH STACK ===================== -->
+# 💻 Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+
+### Tools & Environments
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Productivity & Interests
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white)
+
+<br/><hr/><br/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Salvador9111&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&layout=compact&theme=radical)
+
+<br/><hr/><br/>
+
+<!-- ===================== QUOTE ===================== -->
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/><hr/><br/>
+
+<!-- ===================== SNAKE ===================== -->
+# 🐍 Contribution Snake
+![Snake](https://github.com/Salvador9111/Salvador9111/blob/output/github-contribution-grid-snake.svg)
+
+<br/><hr/><br/>
+
+<!-- ===================== ACTIVITY ===================== -->
+# 🚀 My GitHub Activity
+![Space Shooter](assets/space-shooter.gif)
+
 <br/>
+
+<!-- ===================== VISIT COUNT ===================== -->
+[![](https://visitcount.itsvg.in/api?id=Salvador9111&icon=0&color=5)](https://visitcount.itsvg.in)
