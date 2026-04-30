@@ -17,13 +17,13 @@
 
  <div align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Systems+%26+Mid-Level+Programming+Enthusiast;C+%7C+Python+%7C+HTML+%7C+CSS;Always+learning%2C+always+building..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=550&size=21&duration=3000&pause=1000&color=2AA889&center=true&vCenter=true&width=600&lines=Undergraduate+Software+Engineering+Student;Systems+%26+Mid-Level+Programming+Enthusiast;C+%7C+Python+%7C+HTML+%7C+CSS;Always+learning%2C+always+building..." alt="Typing SVG" />
   </a>
 </div>
 
 
 <div align="right">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 </div>
 
 
