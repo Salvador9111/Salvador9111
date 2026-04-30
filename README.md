@@ -27,7 +27,7 @@
 </div>
 
 
-  <div style="margin-top:2px;">
+  <div style="margin-top:5px;">
 <div align="left">
   <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="YOUR_INSTAGRAM_LINK_HERE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
