@@ -27,8 +27,7 @@
 </div>
 
 
-  <div style="margin-top:2px;">
- align="left">
+<div align="left">
   <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
   <a href="YOUR_INSTAGRAM_LINK_HERE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="YOUR_BLUESKY_LINK_HERE"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
@@ -38,6 +37,7 @@
   <a href="YOUR_PINTEREST_LINK_HERE"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest"/></a>
   <a href="YOUR_REDDIT_LINK_HERE"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"/></a>
 </div>
+
 
 <br/><br/>
 <br/><br/>
