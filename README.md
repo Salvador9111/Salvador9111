@@ -29,12 +29,10 @@
 
 <div align="left">
   <!-- Row 1 -->
-  <a href="https://wa.me/YOUR_PHONE_NUMBER">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="YOUR_BLUESKY_LINK_HERE">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
-  </a>
+  <ahref="https://wa.me/YOUR_PHONE_NUMBER">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <ahref="YOUR_BLUESKY_LINK_HERE">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
   <a href="YOUR_INSTAGRAM_LINK_HERE">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
