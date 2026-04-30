@@ -29,23 +29,23 @@
 
 <div align="left">
   <!-- Row 1 -->
-<ahref="https://wa.me/YOUR_PHONE_NUMBER">
+<a href="https://wa.me/YOUR_PHONE_NUMBER">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<ahref="YOUR_BLUESKY_LINK_HERE">
+<a href="YOUR_BLUESKY_LINK_HERE">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white"/></a>
 <a href="YOUR_INSTAGRAM_LINK_HERE">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<ahref="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:YOUR_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
   <!-- Row 2 -->
-<ahref="YOUR_DISCORD_INVITE_LINK">
+<a href="YOUR_DISCORD_INVITE_LINK">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<ahref="https://www.linkedin.com/in/hammad-imran-6b700539">
+<a href="https://www.linkedin.com/in/hammad-imran-6b700539">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<ahref="YOUR_PINTEREST_LINK_HERE">
+<a href="YOUR_PINTEREST_LINK_HERE">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=pinterest&logoColor=white"/></a>
-  <ahref="YOUR_REDDIT_LINK_HERE">
+<a href="YOUR_REDDIT_LINK_HERE">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </div>
 
