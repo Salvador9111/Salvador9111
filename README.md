@@ -103,5 +103,4 @@
 ![Space Shooter](assets/space-shooter.gif)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Salvador9111&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
