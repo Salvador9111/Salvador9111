@@ -27,6 +27,24 @@
 </div>
 
 
+<table>
+  <tr>
+    <td>...WhatsApp...</td>
+    <td>...Bluesky...</td>
+    <td>...Instagram...</td>
+    <td>...Gmail...</td>
+  </tr>
+  <tr>
+    <td>...Discord...</td>
+    <td>...LinkedIn...</td>
+    <td>...Pinterest...</td>
+    <td>...Reddit...</td>
+  </tr>
+</table>
+
+
+
+
 <div align="left">
   <!-- Row 1 -->
 <a href="https://wa.me/YOUR_PHONE_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
