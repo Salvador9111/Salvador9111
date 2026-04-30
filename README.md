@@ -102,5 +102,5 @@
 # 🚀My GitHub Activity 
 ![Space Shooter](assets/space-shooter.gif)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Salvador9111&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+#Trophies
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical
