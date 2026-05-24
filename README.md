@@ -93,9 +93,11 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false&cache_seconds=86400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=86400" />
+![](https://github-readme-stats.vercel.app/api?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--# 📊 GitHub Stats:-->
 ![](https://github-readme-stats.vercel.app/api?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false)<br/>
