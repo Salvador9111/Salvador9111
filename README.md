@@ -94,7 +94,7 @@
 
 # 📊 GitHub Stats
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Salvador9111&theme=radical&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Salvador9111&theme=radical&hide_border=true" alt="GitHub Streak" />
 </a>
 
 
