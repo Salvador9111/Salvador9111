@@ -92,12 +92,7 @@
 <br/><br/>
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
 <!--# 📊 GitHub Stats:-->
 ![](https://github-readme-stats.vercel.app/api?username=Salvador9111&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Salvador9111&theme=radical&hide_border=false)<br/>
