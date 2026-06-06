@@ -99,182 +99,141 @@
 
 <div align="center">
 
-<!-- 3D Rotating Cube SVG Animation -->
+<!-- ===================== 3D CYBER CUBE ===================== -->
 <svg width="320" height="320" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+
   <defs>
-    <!-- Neon Glow Filters -->
-    <filter id="glow-cyan" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+    <!-- Glow Effects -->
+    <filter id="glow-cyan">
+      <feGaussianBlur stdDeviation="3" result="b"/>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="b"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <filter id="glow-magenta" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
+
+    <filter id="glow-magenta">
+      <feGaussianBlur stdDeviation="4" result="b"/>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="b"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <filter id="glow-core" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
+
+    <filter id="glow-core">
+      <feGaussianBlur stdDeviation="6" result="b"/>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="b"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    
-    <!-- Gradient Definitions -->
-    <linearGradient id="grad-front" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00f2ff;stop-opacity:0.9" />
-      <stop offset="100%" style="stop-color:#0066ff;stop-opacity:0.6" />
+
+    <!-- Gradients -->
+    <linearGradient id="front" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00f2ff"/>
+      <stop offset="100%" stop-color="#0066ff"/>
     </linearGradient>
-    <linearGradient id="grad-side" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#ff00cc;stop-opacity:0.8" />
-      <stop offset="100%" style="stop-color:#9900ff;stop-opacity:0.5" />
+
+    <linearGradient id="side" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff00cc"/>
+      <stop offset="100%" stop-color="#9900ff"/>
     </linearGradient>
-    <linearGradient id="grad-top" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#00ff99;stop-opacity:0.7" />
-      <stop offset="100%" style="stop-color:#00ccff;stop-opacity:0.4" />
+
+    <linearGradient id="top" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00ff99"/>
+      <stop offset="100%" stop-color="#00ccff"/>
     </linearGradient>
-    
-    <!-- Wireframe Pattern -->
-    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="rgba(255,255,255,0.15)" stroke-width="0.5"/>
-    </pattern>
+
   </defs>
-  
-  <!-- Background Tech Rings -->
-  <g opacity="0.3">
-    <ellipse cx="200" cy="200" rx="140" ry="50" fill="none" stroke="#00f2ff" stroke-width="0.5" filter="url(#glow-cyan)">
-      <animateTransform attributeName="transform" type="rotate" from="0 200 200" to="360 200 200" dur="12s" repeatCount="indefinite"/>
+
+  <!-- Background Rings -->
+  <g opacity="0.25">
+    <ellipse cx="200" cy="200" rx="140" ry="50" fill="none" stroke="#00f2ff">
+      <animateTransform attributeName="transform" type="rotate"
+        from="0 200 200" to="360 200 200" dur="14s" repeatCount="indefinite"/>
     </ellipse>
-    <ellipse cx="200" cy="200" rx="140" ry="50" fill="none" stroke="#ff00cc" stroke-width="0.5" filter="url(#glow-magenta)">
-      <animateTransform attributeName="transform" type="rotate" from="120 200 200" to="480 200 200" dur="12s" repeatCount="indefinite"/>
-    </ellipse>
-    <ellipse cx="200" cy="200" rx="140" ry="50" fill="none" stroke="#00ff99" stroke-width="0.5">
-      <animateTransform attributeName="transform" type="rotate" from="240 200 200" to="600 200 200" dur="12s" repeatCount="indefinite"/>
+
+    <ellipse cx="200" cy="200" rx="140" ry="50" fill="none" stroke="#ff00cc">
+      <animateTransform attributeName="transform" type="rotate"
+        from="120 200 200" to="480 200 200" dur="16s" repeatCount="indefinite"/>
     </ellipse>
   </g>
-  
-  <!-- 3D Cube Faces -->
-  <g transform="translate(200, 180)">
-    <!-- Back Face -->
-    <polygon points="-60,-60 60,-60 60,60 -60,60" fill="url(#grad-front)" opacity="0.3" stroke="#00f2ff" stroke-width="1" filter="url(#glow-cyan)">
-      <animateTransform attributeName="transform" type="rotate" values="0 0 0; 0 0 0" dur="6s" repeatCount="indefinite"/>
+
+  <!-- ================= CUBE ================= -->
+  <g transform="translate(200 180)">
+
+    <!-- Back -->
+    <polygon points="-60,-60 60,-60 60,60 -60,60"
+      fill="url(#front)" opacity="0.25" stroke="#00f2ff" filter="url(#glow-cyan)"/>
+
+    <!-- Right -->
+    <polygon points="60,-60 80,-30 80,90 60,60"
+      fill="url(#side)" opacity="0.6" stroke="#ff00cc" filter="url(#glow-magenta)"/>
+
+    <!-- Left -->
+    <polygon points="-60,-60 -40,-30 -40,90 -60,60"
+      fill="url(#side)" opacity="0.4" stroke="#ff00cc"/>
+
+    <!-- Top -->
+    <polygon points="-60,-60 60,-60 80,-30 -40,-30"
+      fill="url(#top)" opacity="0.7" stroke="#00ff99" filter="url(#glow-cyan)"/>
+
+    <!-- Front -->
+    <polygon points="-40,-30 80,-30 80,90 -40,90"
+      fill="url(#front)" opacity="0.85" stroke="#00f2ff" filter="url(#glow-cyan)">
+      <animate attributeName="opacity"
+        values="0.75;1;0.75" dur="2.5s" repeatCount="indefinite"/>
     </polygon>
-    
-    <!-- Bottom Face -->
-    <polygon points="-60,60 60,60 80,90 -40,90" fill="url(#grad-top)" opacity="0.5" stroke="#00ff99" stroke-width="1" filter="url(#glow-cyan)">
-      <animate attributeName="opacity" values="0.5;0.8;0.5" dur="3s" repeatCount="indefinite"/>
-    </polygon>
-    
-    <!-- Right Face -->
-    <polygon points="60,-60 80,-30 80,90 60,60" fill="url(#grad-side)" opacity="0.6" stroke="#ff00cc" stroke-width="1" filter="url(#glow-magenta)">
-      <animate attributeName="opacity" values="0.6;0.9;0.6" dur="4s" repeatCount="indefinite"/>
-    </polygon>
-    
-    <!-- Left Face -->
-    <polygon points="-60,-60 -40,-30 -40,90 -60,60" fill="url(#grad-side)" opacity="0.4" stroke="#ff00cc" stroke-width="1" filter="url(#glow-magenta)"/>
-    
-    <!-- Top Face -->
-    <polygon points="-60,-60 60,-60 80,-30 -40,-30" fill="url(#grad-top)" opacity="0.7" stroke="#00ff99" stroke-width="1" filter="url(#glow-cyan)">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite"/>
-    </polygon>
-    
-    <!-- Front Face -->
-    <polygon points="-40,-30 80,-30 80,90 -40,90" fill="url(#grad-front)" opacity="0.8" stroke="#00f2ff" stroke-width="1.5" filter="url(#glow-cyan)">
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="scale" values="1;1.02;1" dur="3s" repeatCount="indefinite" additive="sum"/>
-    </polygon>
-    
-    <!-- Tech Grid Overlay -->
-    <polygon points="-40,-30 80,-30 80,90 -40,90" fill="url(#grid)" opacity="0.3"/>
-    
-    <!-- Core Glow Point -->
-    <circle cx="20" cy="30" r="8" fill="#ffffff" filter="url(#glow-core)">
-      <animate attributeName="r" values="6;10;6" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2s" repeatCount="indefinite"/>
+
+    <!-- Core -->
+    <circle cx="20" cy="30" r="7" fill="#fff" filter="url(#glow-core)">
+      <animate attributeName="r"
+        values="6;10;6" dur="2s" repeatCount="indefinite"/>
     </circle>
+
     <circle cx="20" cy="30" r="3" fill="#00f2ff"/>
-    
-    <!-- Corner Nodes -->
-    <circle cx="-40" cy="-30" r="3" fill="#00f2ff" filter="url(#glow-cyan)">
-      <animate attributeName="r" values="2;4;2" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="80" cy="-30" r="3" fill="#ff00cc" filter="url(#glow-magenta)">
-      <animate attributeName="r" values="2;4;2" dur="3.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="80" cy="90" r="3" fill="#00ff99" filter="url(#glow-cyan)">
-      <animate attributeName="r" values="2;4;2" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="-40" cy="90" r="3" fill="#00f2ff" filter="url(#glow-cyan)">
-      <animate attributeName="r" values="2;4;2" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
+
   </g>
-  
-  <!-- Floating Data Particles -->
-  <g fill="#00f2ff" filter="url(#glow-cyan)">
-    <circle cx="120" cy="100" r="1.5">
-      <animate attributeName="cy" values="100;80;100" dur="4s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
+
+  <!-- Floating Particles -->
+  <g fill="#00f2ff" opacity="0.8">
+
+    <circle cx="120" cy="120" r="1.5">
+      <animate attributeName="cy" values="120;90;120" dur="4s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="280" cy="300" r="1.5">
-      <animate attributeName="cy" values="300;270;300" dur="5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="5s" repeatCount="indefinite"/>
+
+    <circle cx="280" cy="260" r="1.5">
+      <animate attributeName="cy" values="260;230;260" dur="5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="300" cy="150" r="1">
+
+    <circle cx="300" cy="160" r="1">
       <animate attributeName="cx" values="300;320;300" dur="6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="6s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="100" cy="250" r="1">
-      <animate attributeName="cx" values="100;80;100" dur="5.5s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;1;0" dur="5.5s" repeatCount="indefinite"/>
-    </circle>
+
   </g>
-  
-  <!-- Scanning Line Effect -->
-  <line x1="50" y1="50" x2="350" y2="50" stroke="#00f2ff" stroke-width="0.5" opacity="0.3" filter="url(#glow-cyan)">
+
+  <!-- Scan Line -->
+  <line x1="50" y1="50" x2="350" y2="50" stroke="#00f2ff" opacity="0.25">
     <animate attributeName="y1" values="50;350;50" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="y2" values="50;350;50" dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0;0.5;0" dur="6s" repeatCount="indefinite"/>
   </line>
+
 </svg>
 
 <br>
 
+<!-- ================= TEXT ================= -->
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=SYSTEM+INITIALIZED;LOADING+MODULES...;CORE+ONLINE+%E2%9C%93" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=SYSTEM+ONLINE;NEURAL+CORE+ACTIVE;RUNTIME+STABLE" />
 </h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Core-v2.0.1-00f2ff?style=flat-square&logo=matrix&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Status-Operational-00ff99?style=flat-square&logo=statuspage&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Security-Encrypted-ff00cc?style=flat-square&logo=shield&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Core-v2.0-00f2ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Status-Active-00ff99?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Security-Encrypted-ff00cc?style=flat-square&labelColor=0d1117" />
 </p>
 
 </div>
-
----
-
-<details>
-<summary>🎮 <b>Interactive 3D Viewer (Sketchfab)</b></summary>
-<br>
-
-<div align="center">
-
-*Click the model below to interact — rotate, zoom, and explore in full 3D*
-
-[![3D Interactive Model](https://img.shields.io/badge/Open_3D_Viewer-Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/3d-models/your-model-id)
-
-<iframe width="640" height="480" src="https://sketchfab.com/models/YOUR_MODEL_ID/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-</div>
-
-> ⚠️ **Note:** The `<iframe>` embed works on GitHub Pages, personal websites, and most Markdown renderers that support HTML. GitHub's native README renderer strips iframes for security, so use the **badge link** above as a fallback for direct README viewing. The SVG animation above renders natively everywhere.
-
-</details>
 
 
 
