@@ -112,3 +112,107 @@
 # 🚀My GitHub Activity 
 ![Space Shooter](assets/space-shooter.gif)
 
+
+
+
+
+
+# Muhammad Hammad Imran
+
+**Software Engineering Student | Full-Stack Developer | AI Enthusiast**
+
+📍 Karachi, Pakistan  
+📧 hammad.a.work@gmail.com  
+📱 +92 315 2777 355  
+💼 [LinkedIn](your-linkedin-url) | 🐙 [GitHub](your-github-url)
+
+---
+
+## 🎯 Summary
+
+Software Engineering student at Iqra University with hands-on experience building AI-powered applications, full-stack web solutions, and object-oriented systems in Python, Java, and JavaScript. Demonstrated expertise in API integration, speech recognition, responsive web development, and modular software architecture. Strong foundation in data structures, algorithms, and database systems.
+
+---
+
+## 🎓 Education
+
+**Iqra University** — *Karachi, Pakistan*  
+**Bachelor of Software Engineering**  
+Expected Graduation: 2029
+
+**Relevant Coursework:**  
+Data Structures • Algorithms • Databases • Computer Architecture
+
+---
+
+## 💻 Projects
+
+### 🤖 Jarvis — Voice Assistant
+*Python | Sept 2024*
+- Built a Python voice assistant using speech recognition and text-to-speech capabilities
+- Integrated Wikipedia and Gemini APIs for intelligent query handling
+- Reduced feature integration time by 40% via a plugin-based command handler built on OOP principles
+
+### 👕 Othes — E-Commerce Store
+*HTML, CSS, JavaScript | July 2025*
+- Built a responsive clothing e-commerce website with product catalog and shopping cart functionality
+- Developed modular JavaScript components for product filtering and cart state management
+- Optimized user experience through responsive design and cross-browser compatibility
+
+### ✈️ Airline Reservation System
+*Java | Feb 2026*
+- Developed a flight booking system with ticket reservation, scheduling, and passenger record management
+- Reduced code redundancy by 30% using encapsulation, inheritance, and polymorphism in system architecture
+- Ensured 100% data integrity across sessions with robust file-handling mechanisms for structured data
+
+### 💡 Lumina — AI Chatbot
+*JavaScript*
+- Developed an AI chatbot with asynchronous REST API integration for real-time, context-aware responses
+- Built a dynamic frontend using DOM manipulation and event-driven architecture for smooth user experiences
+- Ensured 90% uptime reliability with error handling and fallback mechanisms for API failures
+
+---
+
+## 🛠️ Skills
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**Tools & Platforms:**  
+VS Code • Git • GitHub • Figma • Notion • Jira • Trello • Google Analytics
+
+**Concepts:**  
+Object-Oriented Programming (OOP) • Data Structures • Algorithms • REST APIs
+
+**Soft Skills:**  
+Communication • Professional Networking • Team Collaboration • Problem Solving
+
+---
+
+## 📜 Certifications
+
+| Certification | Provider | Date |
+|--------------|----------|------|
+| Career Essentials in Generative AI | Microsoft | Aug 2025 |
+| Introduction to Front End Development | Simplilearn | Aug 2025 |
+| GitHub Foundations | DataCamp | Aug 2025 |
+| Python 101 for Data Science | IBM / Cognitive Class | Aug 2025 |
+| C Programming For Beginners | Udemy | Aug 2025 |
+| Elements of AI | University of Helsinki | Aug 2025 |
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)
+
+---
+
+&gt; *"Code is like humor. When you have to explain it, it's bad."* — Cory House
