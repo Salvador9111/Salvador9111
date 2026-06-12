@@ -172,7 +172,7 @@
       <img src="https://cdn.simpleicons.org/simplilearn" width="60" height="60" style="border-radius:50%; object-fit:cover; background:#fff; padding:8px;" /><br/>
       <b>Intro to Front End Development</b><br/>
       <sub>Simplilearn</sub><br/>
-      <a href="#">🔗 View Credential</a>
+      <a href="#">🔗[ View Credential](https://certificates.simplicdn.net/share/10300174_10595165_1780424168270.pdf)</a>
     </td>
   </tr>
   <tr>
