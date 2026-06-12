@@ -146,7 +146,7 @@
       <a href="https://www.sololearn.com/en/certificates/CC-YRKXIQTG">🔗 View Credential</a>
     </td>
     <td align="center" width="200">
-      <img src="https://www.google.com/s2/favicons?domain=life-global.org&sz=128" width="55" height="55" style="border-radius:50%; background:#fff; padding:6px;"/><br/>
+      <img src="https://www.life-global.org/themes/custom/hp_life/images/logo.svg" width="55" height="55" style="background:#fff; padding:6px; border-radius:8px;"/><br/>
       <div style="min-height:24px;"><b>Networking for Career Growth</b></div>
       <sub>HP LIFE</sub><br/>
       <a href="https://www.life-global.org/certificate/01875132-f0a9-4b1d-bef4-aa2002386ee0">🔗 View Credential</a>
