@@ -117,102 +117,83 @@
 
 
 
-# Muhammad Hammad Imran
 
-**Software Engineering Student | Full-Stack Developer | AI Enthusiast**
+# Hi there, I'm Muhammad Hammad Imran 👋
 
-📍 Karachi, Pakistan  
-📧 hammad.a.work@gmail.com  
-📱 +92 315 2777 355  
-💼 [LinkedIn](your-linkedin-url) | 🐙 [GitHub](your-github-url)
+Software Engineering student at **Iqra University** with hands-on experience building AI-powered applications, full-stack web solutions, and object-oriented systems using **Python, Java, and JavaScript**. I enjoy working on API integration, speech recognition, responsive web development, and modular software architecture.
 
----
-
-## 🎯 Summary
-
-Software Engineering student at Iqra University with hands-on experience building AI-powered applications, full-stack web solutions, and object-oriented systems in Python, Java, and JavaScript. Demonstrated expertise in API integration, speech recognition, responsive web development, and modular software architecture. Strong foundation in data structures, algorithms, and database systems.
-
----
-
-## 🎓 Education
-
-**Iqra University** — *Karachi, Pakistan*  
-**Bachelor of Software Engineering**  
-Expected Graduation: 2029
-
-**Relevant Coursework:**  
-Data Structures • Algorithms • Databases • Computer Architecture
-
----
-
-## 💻 Projects
-
-### 🤖 Jarvis — Voice Assistant
-*Python | Sept 2024*
-- Built a Python voice assistant using speech recognition and text-to-speech capabilities
-- Integrated Wikipedia and Gemini APIs for intelligent query handling
-- Reduced feature integration time by 40% via a plugin-based command handler built on OOP principles
-
-### 👕 Othes — E-Commerce Store
-*HTML, CSS, JavaScript | July 2025*
-- Built a responsive clothing e-commerce website with product catalog and shopping cart functionality
-- Developed modular JavaScript components for product filtering and cart state management
-- Optimized user experience through responsive design and cross-browser compatibility
-
-### ✈️ Airline Reservation System
-*Java | Feb 2026*
-- Developed a flight booking system with ticket reservation, scheduling, and passenger record management
-- Reduced code redundancy by 30% using encapsulation, inheritance, and polymorphism in system architecture
-- Ensured 100% data integrity across sessions with robust file-handling mechanisms for structured data
-
-### 💡 Lumina — AI Chatbot
-*JavaScript*
-- Developed an AI chatbot with asynchronous REST API integration for real-time, context-aware responses
-- Built a dynamic frontend using DOM manipulation and event-driven architecture for smooth user experiences
-- Ensured 90% uptime reliability with error handling and fallback mechanisms for API failures
+- 🎓 Bachelor of Software Engineering @ Iqra University (Expected 2029)
+- 📍 Based in Karachi, Pakistan
+- 💡 Interested in AI applications, full-stack development, and clean OOP design
+- 📫 Reach me at **hammad.a.work@gmail.com**
 
 ---
 
 ## 🛠️ Skills
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**Tools & Platforms:**  
-VS Code • Git • GitHub • Figma • Notion • Jira • Trello • Google Analytics
+**Tools & Platforms:** ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white) ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-E37400?logo=googleanalytics&logoColor=white)
 
-**Concepts:**  
-Object-Oriented Programming (OOP) • Data Structures • Algorithms • REST APIs
+**Concepts:** Object-Oriented Programming (OOP) • Data Structures • Algorithms • REST APIs
 
-**Soft Skills:**  
-Communication • Professional Networking • Team Collaboration • Problem Solving
+**Soft Skills:** Communication • Professional Networking • Team Collaboration • Problem Solving
+
+---
+
+## 🚀 Projects
+
+### 🤖 [Jarvis — Voice Assistant](#) | Python
+*Sept. 2024*
+- Built a Python voice assistant using speech recognition and text-to-speech.
+- Integrated Wikipedia and Gemini APIs for intelligent query handling.
+- Reduced feature integration time by 40% via a plugin-based command handler built on OOP principles.
+
+### 🛍️ [Uclothes — E-Commerce Store](#) | HTML, CSS, JavaScript
+*Feb. 2026*
+- Built a responsive clothing e-commerce website with product catalog and shopping cart.
+- Developed modular JavaScript components for product filtering and cart state management.
+- Optimized user experience through responsive design and cross-browser compatibility.
+
+### ✈️ [Airline Reservation System](#) | Java
+*July 2025*
+- Developed a flight booking system with ticket reservation, scheduling, and passenger record management.
+- Reduced code redundancy by 30% using encapsulation, inheritance, and polymorphism in the system architecture.
+- Ensured 100% data integrity across sessions with robust file-handling mechanisms for structured data persistence.
+
+### 💬 [Lumina — AI Chatbot](#) | JavaScript
+*Aug. 2025*
+- Developed an AI chatbot with asynchronous REST API integration for real-time, context-aware responses.
+- Built a dynamic frontend using DOM manipulation and event-driven architecture for smooth experiences.
+- Ensured 90% uptime reliability with error handling and fallback mechanisms for API failure scenarios.
+
+> 💡 Replace the `#` links above with the actual GitHub repository URLs for each project.
 
 ---
 
 ## 📜 Certifications
 
-| Certification | Provider | Date |
-|--------------|----------|------|
-| Career Essentials in Generative AI | Microsoft | Aug 2025 |
-| Introduction to Front End Development | Simplilearn | Aug 2025 |
-| GitHub Foundations | DataCamp | Aug 2025 |
-| Python 101 for Data Science | IBM / Cognitive Class | Aug 2025 |
-| C Programming For Beginners | Udemy | Aug 2025 |
-| Elements of AI | University of Helsinki | Aug 2025 |
+| Certificate | Issuing Organization | Credential Link |
+|---|---|---|
+| Career Essentials in Generative AI | Microsoft (via LinkedIn Learning) | [Add your credential link](#) |
+| Python 101 for Data Science | IBM / Cognitive Class | [Add your credential link](#) |
+| Introduction to Front End Development | Simplilearn | [Add your credential link](#) |
+| C Programming For Beginners | Udemy | [Add your credential link](#) |
+| GitHub Foundations | DataCamp | [Add your credential link](#) |
+| Elements of AI | University of Helsinki | [Add your credential link](#) |
+
+> 💡 To add your real certificate links: go to the issuing platform (e.g., LinkedIn Learning, Coursera, Cognitive Class, Simplilearn, Udemy, DataCamp, or the Elements of AI course page), open "My Certificates" or "Achievements," copy the public/shareable URL for each certificate, and paste it in place of `#` above.
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect with Me
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hammad.a.work@gmail.com)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)
+> 💡 Replace the LinkedIn and GitHub `#` links with your actual profile URLs.
 
 ---
 
-&gt; *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+⭐️ From [Muhammad Hammad Imran](https://github.com/)
