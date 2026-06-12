@@ -235,66 +235,14 @@
       <sub>SoloLearn</sub><br/>
       <a href="https://www.sololearn.com/en/certificates/CC-YRKXIQTG">🔗 View Credential</a>
     </td>
+    </td>
+    <td align="center" width="180">
+      <img src="https://www.google.com/s2/favicons?domain=elementsofai.com&sz=128" width="60" height="60" style="border-radius:50%;"/><br/>
+      <b>Professional Networking for Career Growth</b><br/>
+      <sub>HP LIFE</sub><br/>
+      <a href="https://www.life-global.org/certificate/01875132-f0a9-4b1d-bef4-aa2002386ee0">🔗 View Credential</a>
+    </td>
     <td></td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-## 📜 Certifications
-
-<details>
-<summary><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=64" width="20"/> <b>Career Essentials in Generative AI</b> — Microsoft</summary>
-<br/>
-Covers foundational concepts of generative AI, prompt design, and responsible AI use.<br/>
-🔗 <a href="https://www.linkedin.com/learning/certificates/3023f0c72912ba13ffcc2c8c6b13c9f598aa6d4a2196e05fa8fc37510297d3ab">View Credential</a>
-</details>
-
-<details>
-<summary><img src="https://www.google.com/s2/favicons?domain=cognitiveclass.ai&sz=64" width="20"/> <b>Python 101 for Data Science</b> — IBM / Cognitive Class</summary>
-<br/>
-Introductory course on Python fundamentals for data analysis and scripting.<br/>
-🔗 <a href="https://courses.cognitiveclass.ai/certificates/e33414a53abd47a0b9631b4cfe4b53e0">View Credential</a>
-</details>
-
-<details>
-<summary><img src="https://www.google.com/s2/favicons?domain=simplilearn.com&sz=64" width="20"/> <b>Introduction to Front End Development</b> — Simplilearn</summary>
-<br/>
-Covers HTML, CSS, and JavaScript basics for building responsive web pages.<br/>
-🔗 <a href="https://certificates.simplicdn.net/share/10300174_10595165_1780424168270.pdf">View Credential</a>
-</details>
-
-<details>
-<summary><img src="https://www.google.com/s2/favicons?domain=udemy.com&sz=64" width="20"/> <b>C Programming for Beginners</b> — Udemy</summary>
-<br/>
-Hands-on introduction to C syntax, control structures, and memory basics.<br/>
-🔗 <a href="https://www.udemy.com/certificate/UC-f77df0f9-6868-49f6-a89c-70042ff9dabb/">View Credential</a>
-</details>
-
-<details>
-<summary><img src="https://www.google.com/s2/favicons?domain=datacamp.com&sz=64" width="20"/> <b>GitHub Foundations</b> — DataCamp</summary>
-<br/>
-Covers Git/GitHub fundamentals: repos, branching, pull requests, and collaboration workflows.<br/>
-🔗 <a href="https://www.datacamp.com/statement-of-accomplishment/track/b75695f027afb854cb11b24d35414654718bf87d?raw=1">View Credential</a>
-</details>
-
-<details>
-<summary><img src="https://www.google.com/s2/favicons?domain=elementsofai.com&sz=64" width="20"/> <b>Elements of AI</b> — University of Helsinki</summary>
-<br/>
-A free online introduction to AI concepts, ethics, and real-world applications.<br/>
-🔗 <a href="https://certificates.mooc.fi/validate/o184xt35tr">View Credential</a>
-</details>
-
-<details>
-<summary><img src="https://www.google.com/s2/favicons?domain=sololearn.com&sz=64" width="20"/> <b>Prompt Engineering</b> — SoloLearn</summary>
-<br/>
-Covers core prompt engineering techniques for working effectively with AI/LLM tools.<br/>
-🔗 <a href="https://www.sololearn.com/en/certificates/CC-YRKXIQTG">View Credential</a>
-</details>
 
