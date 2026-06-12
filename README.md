@@ -117,20 +117,34 @@
 
 
 
-
 ## 📜 Certifications
 
-| Certificate | Issuing Organization | Credential Link |
-|---|---|---|
-| Career Essentials in Generative AI | Microsoft (via LinkedIn Learning) | [https://www.datacamp.com/statement-of-accomplishment/track/b75695f027afb854cb11b24d35414654718bf87d?raw=1](#) |
-| Python 101 for Data Science | IBM / Cognitive Class | [Add your credential link](#) |
-| Introduction to Front End Development | Simplilearn | [Add your credential link](#) |
-| C Programming For Beginners | Udemy | [Add your credential link](#) |
-| GitHub Foundations | DataCamp | [Add your credential link](#) |
-| Elements of AI | University of Helsinki | [Add your credential link](#) |
-
-> 💡 To add your real certificate links: go to the issuing platform (e.g., LinkedIn Learning, Coursera, Cognitive Class, Simplilearn, Udemy, DataCamp, or the Elements of AI course page), open "My Certificates" or "Achievements," copy the public/shareable URL for each certificate, and paste it in place of `#` above.
-
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="#"><img src="https://img.shields.io/badge/Career_Essentials_in_Generative_AI-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
+    </td>
+    <td align="center" width="300">
+      <a href="#"><img src="https://img.shields.io/badge/Python_101_for_Data_Science-IBM_/_Cognitive_Class-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href="#"><img src="https://img.shields.io/badge/Intro_to_Front_End_Dev-Simplilearn-FF6B00?style=for-the-badge&logo=html5&logoColor=white" /></a>
+    </td>
+    <td align="center" width="300">
+      <a href="#"><img src="https://img.shields.io/badge/C_Programming_for_Beginners-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href="#"><img src="https://img.shields.io/badge/GitHub_Foundations-DataCamp-03EF62?style=for-the-badge&logo=github&logoColor=black" /></a>
+    </td>
+    <td align="center" width="300">
+      <a href="#"><img src="https://img.shields.io/badge/Elements_of_AI-Univ._of_Helsinki-990000?style=for-the-badge&logo=openai&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📫 Connect with Me
