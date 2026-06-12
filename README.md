@@ -114,145 +114,187 @@
 
 
 
-
-
-
-## 📜 Certifications
-
-<table>
-  <tr>
-    <td align="center" width="300">
-      <a href="#"><img src="https://img.shields.io/badge/Career_Essentials_in_Generative_AI-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" /></a>
-    </td>
-    <td align="center" width="300">
-      <a href="#"><img src="https://img.shields.io/badge/Python_101_for_Data_Science-IBM_/_Cognitive_Class-052FAD?style=for-the-badge&logo=ibm&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <a href="#"><img src="https://img.shields.io/badge/Intro_to_Front_End_Dev-Simplilearn-FF6B00?style=for-the-badge&logo=html5&logoColor=white" /></a>
-    </td>
-    <td align="center" width="300">
-      <a href="#"><img src="https://img.shields.io/badge/C_Programming_for_Beginners-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <a href="#"><img src="https://img.shields.io/badge/GitHub_Foundations-DataCamp-03EF62?style=for-the-badge&logo=github&logoColor=black" /></a>
-    </td>
-    <td align="center" width="300">
-      <a href="#"><img src="https://img.shields.io/badge/Elements_of_AI-Univ._of_Helsinki-990000?style=for-the-badge&logo=openai&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-## 📜 Certifications
-
-<table>
-  <tr>
-    <td align="center" width="160">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="60" height="60" style="border-radius:50%; object-fit:cover; background:#fff; padding:8px;" /><br/>
-      <b>Career Essentials in Generative AI</b><br/>
-      <sub>Microsoft</sub><br/>
-      <a href="#">🔗 View Credential</a>
-    </td>
-    <td align="center" width="160">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="60" height="60" style="border-radius:50%; object-fit:cover; background:#fff; padding:8px;" /><br/>
-      <b>Python 101 for Data Science</b><br/>
-      <sub>IBM / Cognitive Class</sub><br/>
-      <a href="#">🔗 View Credential</a>
-    </td>
-    <td align="center" width="160">
-      <img src="https://cdn.simpleicons.org/simplilearn" width="60" height="60" style="border-radius:50%; object-fit:cover; background:#fff; padding:8px;" /><br/>
-      <b>Intro to Front End Development</b><br/>
-      <sub>Simplilearn</sub><br/>
-      <a href="#">🔗[ View Credential](https://certificates.simplicdn.net/share/10300174_10595165_1780424168270.pdf)</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="160">
-      <img src="https://cdn.simpleicons.org/udemy" width="60" height="60" style="border-radius:50%; object-fit:cover; background:#fff; padding:8px;" /><br/>
-      <b>C Programming for Beginners</b><br/>
-      <sub>Udemy</sub><br/>
-      <a href="#">🔗 View Credential</a>
-    </td>
-    <td align="center" width="160">
-      <img src="https://cdn.simpleicons.org/github" width="60" height="60" style="border-radius:50%; object-fit:cover; background:#fff; padding:8px;" /><br/>
-      <b>GitHub Foundations</b><br/>
-      <sub>DataCamp</sub><br/>
-      <a href="#">🔗 View Credential</a>
-    </td>
-    <td align="center" width="160">
-      <img src="https://www.elementsofai.com/static/favicon-32x32.png" width="60" height="60" style="border-radius:50%; object-fit:cover; background:#fff; padding:8px;" /><br/>
-      <b>Elements of AI</b><br/>
-      <sub>University of Helsinki</sub><br/>
-      <a href="#">🔗 View Credential</a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-
-
-## 📜 Certifications
-
-<details>
-<summary><b>🎖️ Career Essentials in Generative AI</b> — Microsoft</summary>
-<br/>
-Covers foundational concepts of generative AI, prompt design, and responsible AI use.<br/>
-🔗 <a href="#">View Credential</a>
-</details>
-
-<details>
-<summary><b>🎖️ Python 101 for Data Science</b> — IBM / Cognitive Class</summary>
-<br/>
-Introductory course on Python fundamentals for data analysis and scripting.<br/>
-🔗 <a href="#">View Credential</a>
-</details>
-
-<details>
-<summary><b>🎖️ Introduction to Front End Development</b> — Simplilearn</summary>
-<br/>
-Covers HTML, CSS, and JavaScript basics for building responsive web pages.<br/>
-🔗 <a href="#">View Credential</a>
-</details>
-
-<details>
-<summary><b>🎖️ C Programming for Beginners</b> — Udemy</summary>
-<br/>
-Hands-on introduction to C syntax, control structures, and memory basics.<br/>
-🔗 <a href="#">View Credential</a>
-</details>
-
-<details>
-<summary><b>🎖️ GitHub Foundations</b> — DataCamp</summary>
-<br/>
-Covers Git/GitHub fundamentals: repos, branching, pull requests, and collaboration workflows.<br/>
-🔗 <a href="#">View Credential</a>
-</details>
-
-<details>
-<summary><b>🎖️ Elements of AI</b> — University of Helsinki</summary>
-<br/>
-A free online introduction to AI concepts, ethics, and real-world applications.<br/>
-🔗 <a href="#">View Credential</a>
-</details>
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hammad.a.work@gmail.com)
+
+
+
+
+
+
+
+
+## 📜 Certifications
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" width="50" height="50"/><br/>
+      <b>Career Essentials in Generative AI</b><br/>
+      <sub>Microsoft</sub><br/>
+      <a href="https://www.linkedin.com/learning/certificates/3023f0c72912ba13ffcc2c8c6b13c9f598aa6d4a2196e05fa8fc37510297d3ab">🔗 View Credential</a>
+    </td>
+    <td align="center" width="220">
+      <img src="https://www.google.com/s2/favicons?domain=cognitiveclass.ai&sz=128" width="50" height="50"/><br/>
+      <b>Python 101 for Data Science</b><br/>
+      <sub>IBM / Cognitive Class</sub><br/>
+      <a href="https://courses.cognitiveclass.ai/certificates/e33414a53abd47a0b9631b4cfe4b53e0">🔗 View Credential</a>
+    </td>
+    <td align="center" width="220">
+      <img src="https://www.google.com/s2/favicons?domain=simplilearn.com&sz=128" width="50" height="50"/><br/>
+      <b>Intro to Front End Development</b><br/>
+      <sub>Simplilearn</sub><br/>
+      <a href="https://certificates.simplicdn.net/share/10300174_10595165_1780424168270.pdf">🔗 View Credential</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://www.google.com/s2/favicons?domain=udemy.com&sz=128" width="50" height="50"/><br/>
+      <b>C Programming for Beginners</b><br/>
+      <sub>Udemy</sub><br/>
+      <a href="https://www.udemy.com/certificate/UC-f77df0f9-6868-49f6-a89c-70042ff9dabb/">🔗 View Credential</a>
+    </td>
+    <td align="center" width="220">
+      <img src="https://www.google.com/s2/favicons?domain=datacamp.com&sz=128" width="50" height="50"/><br/>
+      <b>GitHub Foundations</b><br/>
+      <sub>DataCamp</sub><br/>
+      <a href="https://www.datacamp.com/statement-of-accomplishment/track/b75695f027afb854cb11b24d35414654718bf87d?raw=1">🔗 View Credential</a>
+    </td>
+    <td align="center" width="220">
+      <img src="https://www.google.com/s2/favicons?domain=elementsofai.com&sz=128" width="50" height="50"/><br/>
+      <b>Elements of AI</b><br/>
+      <sub>University of Helsinki</sub><br/>
+      <a href="https://certificates.mooc.fi/validate/o184xt35tr">🔗 View Credential</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <img src="https://www.google.com/s2/favicons?domain=sololearn.com&sz=128" width="50" height="50"/><br/>
+      <b>Prompt Engineering</b><br/>
+      <sub>SoloLearn</sub><br/>
+      <a href="https://www.sololearn.com/en/certificates/CC-YRKXIQTG">🔗 View Credential</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+
+
+
+## 📜 Certifications
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" width="60" height="60" style="border-radius:50%;"/><br/>
+      <b>Career Essentials in Generative AI</b><br/>
+      <sub>Microsoft</sub><br/>
+      <a href="https://www.linkedin.com/learning/certificates/3023f0c72912ba13ffcc2c8c6b13c9f598aa6d4a2196e05fa8fc37510297d3ab">🔗 View Credential</a>
+    </td>
+    <td align="center" width="180">
+      <img src="https://www.google.com/s2/favicons?domain=cognitiveclass.ai&sz=128" width="60" height="60" style="border-radius:50%;"/><br/>
+      <b>Python 101 for Data Science</b><br/>
+      <sub>IBM / Cognitive Class</sub><br/>
+      <a href="https://courses.cognitiveclass.ai/certificates/e33414a53abd47a0b9631b4cfe4b53e0">🔗 View Credential</a>
+    </td>
+    <td align="center" width="180">
+      <img src="https://www.google.com/s2/favicons?domain=simplilearn.com&sz=128" width="60" height="60" style="border-radius:50%;"/><br/>
+      <b>Intro to Front End Development</b><br/>
+      <sub>Simplilearn</sub><br/>
+      <a href="https://certificates.simplicdn.net/share/10300174_10595165_1780424168270.pdf">🔗 View Credential</a>
+    </td>
+    <td align="center" width="180">
+      <img src="https://www.google.com/s2/favicons?domain=udemy.com&sz=128" width="60" height="60" style="border-radius:50%;"/><br/>
+      <b>C Programming for Beginners</b><br/>
+      <sub>Udemy</sub><br/>
+      <a href="https://www.udemy.com/certificate/UC-f77df0f9-6868-49f6-a89c-70042ff9dabb/">🔗 View Credential</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="180">
+      <img src="https://www.google.com/s2/favicons?domain=datacamp.com&sz=128" width="60" height="60" style="border-radius:50%;"/><br/>
+      <b>GitHub Foundations</b><br/>
+      <sub>DataCamp</sub><br/>
+      <a href="https://www.datacamp.com/statement-of-accomplishment/track/b75695f027afb854cb11b24d35414654718bf87d?raw=1">🔗 View Credential</a>
+    </td>
+    <td align="center" width="180">
+      <img src="https://www.google.com/s2/favicons?domain=elementsofai.com&sz=128" width="60" height="60" style="border-radius:50%;"/><br/>
+      <b>Elements of AI</b><br/>
+      <sub>University of Helsinki</sub><br/>
+      <a href="https://certificates.mooc.fi/validate/o184xt35tr">🔗 View Credential</a>
+    </td>
+    <td align="center" width="180">
+      <img src="https://www.google.com/s2/favicons?domain=sololearn.com&sz=128" width="60" height="60" style="border-radius:50%;"/><br/>
+      <b>Prompt Engineering</b><br/>
+      <sub>SoloLearn</sub><br/>
+      <a href="https://www.sololearn.com/en/certificates/CC-YRKXIQTG">🔗 View Credential</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+## 📜 Certifications
+
+<details>
+<summary><img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=64" width="20"/> <b>Career Essentials in Generative AI</b> — Microsoft</summary>
+<br/>
+Covers foundational concepts of generative AI, prompt design, and responsible AI use.<br/>
+🔗 <a href="https://www.linkedin.com/learning/certificates/3023f0c72912ba13ffcc2c8c6b13c9f598aa6d4a2196e05fa8fc37510297d3ab">View Credential</a>
+</details>
+
+<details>
+<summary><img src="https://www.google.com/s2/favicons?domain=cognitiveclass.ai&sz=64" width="20"/> <b>Python 101 for Data Science</b> — IBM / Cognitive Class</summary>
+<br/>
+Introductory course on Python fundamentals for data analysis and scripting.<br/>
+🔗 <a href="https://courses.cognitiveclass.ai/certificates/e33414a53abd47a0b9631b4cfe4b53e0">View Credential</a>
+</details>
+
+<details>
+<summary><img src="https://www.google.com/s2/favicons?domain=simplilearn.com&sz=64" width="20"/> <b>Introduction to Front End Development</b> — Simplilearn</summary>
+<br/>
+Covers HTML, CSS, and JavaScript basics for building responsive web pages.<br/>
+🔗 <a href="https://certificates.simplicdn.net/share/10300174_10595165_1780424168270.pdf">View Credential</a>
+</details>
+
+<details>
+<summary><img src="https://www.google.com/s2/favicons?domain=udemy.com&sz=64" width="20"/> <b>C Programming for Beginners</b> — Udemy</summary>
+<br/>
+Hands-on introduction to C syntax, control structures, and memory basics.<br/>
+🔗 <a href="https://www.udemy.com/certificate/UC-f77df0f9-6868-49f6-a89c-70042ff9dabb/">View Credential</a>
+</details>
+
+<details>
+<summary><img src="https://www.google.com/s2/favicons?domain=datacamp.com&sz=64" width="20"/> <b>GitHub Foundations</b> — DataCamp</summary>
+<br/>
+Covers Git/GitHub fundamentals: repos, branching, pull requests, and collaboration workflows.<br/>
+🔗 <a href="https://www.datacamp.com/statement-of-accomplishment/track/b75695f027afb854cb11b24d35414654718bf87d?raw=1">View Credential</a>
+</details>
+
+<details>
+<summary><img src="https://www.google.com/s2/favicons?domain=elementsofai.com&sz=64" width="20"/> <b>Elements of AI</b> — University of Helsinki</summary>
+<br/>
+A free online introduction to AI concepts, ethics, and real-world applications.<br/>
+🔗 <a href="https://certificates.mooc.fi/validate/o184xt35tr">View Credential</a>
+</details>
+
+<details>
+<summary><img src="https://www.google.com/s2/favicons?domain=sololearn.com&sz=64" width="20"/> <b>Prompt Engineering</b> — SoloLearn</summary>
+<br/>
+Covers core prompt engineering techniques for working effectively with AI/LLM tools.<br/>
+🔗 <a href="https://www.sololearn.com/en/certificates/CC-YRKXIQTG">View Credential</a>
+</details>
+
