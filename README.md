@@ -113,7 +113,7 @@
 ![Space Shooter](assets/space-shooter.gif)
 
 
-
+<br/><br/>
 
 # 📜 Certifications
 
