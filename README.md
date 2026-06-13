@@ -181,6 +181,15 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hammad.a.work@gmail.com)
 
 
+ 
 
 
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Salvador9111]/[Salvador9111]/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Salvador9111]/[Salvador9111]/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[Salvador9111]/[Salvador9111]/output/[game-name]-contribution-graph.svg">
+</picture>
 
