@@ -193,3 +193,13 @@
     <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[Salvador9111]/[Salvador9111]/output/[game-name]-contribution-graph.svg">
 </picture>
 
+
+
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitlab.com/[Salvador9111]/[Salvador9111]/-/raw/main/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://gitlab.com/[Salvador9111]/[Salvador9111]/-/raw/main/output/[game-name]-contribution-graph.svg">
+    <img alt="[new] contribution graph" src="https://gitlab.com/[USERNAME]/[Salvador9111]/-/raw/main/output/[game-name]-contribution-graph.svg">
+</picture>
