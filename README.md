@@ -181,4 +181,9 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hammad.a.work@gmail.com)
 
 
+
+
+
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=<Salvador9111>)
  
