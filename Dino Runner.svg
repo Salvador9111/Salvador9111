@@ -1,4 +1,4 @@
-<<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%">
   <defs>
     <style>
       .bg { fill: #0d1117; }
@@ -19,10 +19,6 @@
         0%, 100% { transform: translateY(0); }
         50% { transform: translateY(-60px); }
       }
-      @keyframes run {
-        0%, 100% { d: path("M0,0 L8,0 L8,4 L12,4 L12,0 L20,0 L20,16 L16,16 L16,20 L4,20 L4,16 L0,16 Z"); }
-        50% { d: path("M0,0 L8,0 L8,4 L12,4 L12,0 L20,0 L20,16 L16,16 L16,20 L4,20 L4,16 L0,16 Z"); }
-      }
       @keyframes leg1 {
         0%, 100% { transform: translateY(0); }
         50% { transform: translateY(-3px); }
@@ -35,29 +31,19 @@
         0% { transform: translateX(850px); }
         100% { transform: translateX(-100px); }
       }
-      @keyframes scroll-fast {
-        0% { transform: translateX(850px); }
-        100% { transform: translateX(-100px); }
-      }
       @keyframes wing {
         0%, 100% { transform: translateY(0); }
         50% { transform: translateY(-5px); }
-      }
-      @keyframes blink {
-        0%, 90%, 100% { opacity: 1; }
-        95% { opacity: 0; }
       }
     </style>
   </defs>
   
   <rect class="bg" width="100%" height="100%" rx="8"/>
   
-  <!-- Title -->
   <text x="20" y="28" class="title">🦖 Dino Runner</text>
   <text x="780" y="28" class="score" text-anchor="end">01337</text>
   <text x="780" y="44" class="hi" text-anchor="end">HI 09999</text>
   
-  <!-- Stars -->
   <g opacity="0.6">
     <circle class="star" cx="100" cy="60" r="1">
       <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
@@ -73,7 +59,6 @@
     </circle>
   </g>
   
-  <!-- Clouds -->
   <g class="cloud" style="animation: scroll 20s linear infinite;">
     <rect x="50" y="50" width="40" height="8" rx="4"/>
     <rect x="60" y="42" width="30" height="8" rx="4"/>
@@ -89,11 +74,9 @@
     <rect x="410" y="37" width="25" height="8" rx="4"/>
   </g>
   
-  <!-- Ground -->
   <rect class="ground" x="0" y="190" width="800" height="2"/>
   <rect class="ground" x="0" y="220" width="800" height="2"/>
   
-  <!-- Ground texture scrolling -->
   <g style="animation: scroll 3s linear infinite;">
     <rect x="0" y="190" width="20" height="2" fill="#484f58"/>
     <rect x="40" y="190" width="10" height="2" fill="#484f58"/>
@@ -118,40 +101,24 @@
     <rect x="800" y="190" width="16" height="2" fill="#484f58"/>
   </g>
   
-  <!-- Dinosaur -->
   <g transform="translate(100, 150)">
-    <!-- Jump animation -->
     <g style="animation: jump 1.5s ease-in-out infinite;">
-      <!-- Tail -->
       <polygon class="dino-body" points="-10,10 -20,5 -15,15"/>
-      
-      <!-- Body -->
       <rect class="dino-body" x="0" y="0" width="30" height="25" rx="4"/>
       <rect class="dino-body" x="25" y="5" width="15" height="15" rx="3"/>
-      
-      <!-- Head -->
       <rect class="dino-body" x="35" y="-5" width="20" height="18" rx="3"/>
       <rect class="dino-body" x="50" y="0" width="8" height="8" rx="2"/>
-      
-      <!-- Eye -->
       <rect class="dino-eye" x="42" y="0" width="3" height="3" rx="1">
         <animate attributeName="opacity" values="1;0;1" dur="4s" repeatCount="indefinite"/>
       </rect>
-      
-      <!-- Leg 1 -->
       <rect class="dino-body" x="5" y="22" width="8" height="12" rx="2" style="animation: leg1 0.3s infinite;"/>
       <rect class="dino-body" x="5" y="32" width="8" height="4" rx="2" style="animation: leg1 0.3s infinite;"/>
-      
-      <!-- Leg 2 -->
       <rect class="dino-body" x="18" y="22" width="8" height="12" rx="2" style="animation: leg2 0.3s infinite;"/>
       <rect class="dino-body" x="18" y="32" width="8" height="4" rx="2" style="animation: leg2 0.3s infinite;"/>
-      
-      <!-- Arm -->
       <rect class="dino-body" x="28" y="12" width="10" height="4" rx="2" style="animation: leg1 0.3s infinite;"/>
     </g>
   </g>
   
-  <!-- Cactus 1 -->
   <g style="animation: scroll 4s linear infinite;">
     <g transform="translate(0, 160)">
       <rect class="cactus" x="0" y="0" width="10" height="30" rx="2"/>
@@ -159,12 +126,10 @@
       <rect class="cactus" x="-8" y="5" width="4" height="12" rx="2"/>
       <rect class="cactus" x="10" y="8" width="8" height="4" rx="2"/>
       <rect class="cactus" x="14" y="8" width="4" height="10" rx="2"/>
-      <!-- Highlight -->
       <rect class="cactus-fg" x="2" y="2" width="2" height="20" rx="1"/>
     </g>
   </g>
   
-  <!-- Cactus 2 (smaller) -->
   <g style="animation: scroll 3.5s linear infinite; animation-delay: 2s;">
     <g transform="translate(0, 170)">
       <rect class="cactus" x="0" y="0" width="8" height="20" rx="2"/>
@@ -174,7 +139,6 @@
     </g>
   </g>
   
-  <!-- Cactus 3 (group) -->
   <g style="animation: scroll 5s linear infinite; animation-delay: 1s;">
     <g transform="translate(0, 155)">
       <rect class="cactus" x="0" y="0" width="10" height="35" rx="2"/>
@@ -186,7 +150,6 @@
     </g>
   </g>
   
-  <!-- Bird -->
   <g style="animation: scroll 6s linear infinite; animation-delay: 3s;">
     <g transform="translate(0, 110)">
       <ellipse class="bird" cx="10" cy="5" rx="12" ry="6"/>
@@ -198,13 +161,11 @@
     </g>
   </g>
   
-  <!-- Speed lines -->
   <g opacity="0.3">
     <rect x="200" y="130" width="30" height="2" fill="#ffffff" style="animation: scroll 1s linear infinite;"/>
     <rect x="400" y="100" width="20" height="2" fill="#ffffff" style="animation: scroll 0.8s linear infinite; animation-delay: 0.3s;"/>
     <rect x="600" y="140" width="25" height="2" fill="#ffffff" style="animation: scroll 1.2s linear infinite; animation-delay: 0.6s;"/>
   </g>
   
-  <!-- Game Over / Press Space hint -->
   <text x="400" y="240" class="hi" text-anchor="middle" fill="#484f58" font-size="11">PRESS SPACE TO JUMP</text>
 </svg>
