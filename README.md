@@ -184,10 +184,3 @@
 
 
 
-
-## 🦖 Dino Runner
-
-![Dino Runner](Dino-Runner.svg)
-
-
-
