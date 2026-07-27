@@ -2,10 +2,7 @@ name: Daily Commit Bot
 
 on:
   schedule:
-    # Runs at 9:00 AM UTC every day
     - cron: '0 9 * * *'
-  
-  # Allow manual trigger from Actions tab
   workflow_dispatch:
 
 jobs:
@@ -19,6 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
       
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -26,4 +24,10 @@ jobs:
           python-version: '3.11'
       
       - name: Run commit script
-        run: python commit_bot.py
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          python commit_bot.py
+          git add activity.log
+          git commit -m "Daily activity: $(date +%Y-%m-%d)" || echo "Nothing to commit"
+          git push
