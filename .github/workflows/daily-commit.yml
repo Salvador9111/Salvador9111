@@ -5,29 +5,34 @@ on:
     - cron: '0 9 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   commit:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          persist-credentials: true
-      
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      
+          python-version: "3.11"
+
       - name: Run commit script
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Salvador9111"
+          git config --global user.email "zalimhammad978@gmail.com"
+
           python commit_bot.py
+
           git add activity.log
-          git commit -m "Daily activity: $(date +%Y-%m-%d)" || echo "Nothing to commit"
-          git push
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Daily activity: $(date +%Y-%m-%d)"
+            git push
+          else
+            echo "Nothing to commit"
+          fi
