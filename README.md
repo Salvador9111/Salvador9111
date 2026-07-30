@@ -124,31 +124,31 @@
 
 <table>
   <tr>
-    <td align="center" width="160">
+    <td align="center" width="170">
       <img src="https://www.google.com/s2/favicons?domain=datacamp.com&sz=128" width="55" height="55"/><br>
       <b>GitHub Foundations</b><br>
       <sub>DataCamp</sub><br>
       <a href="https://www.datacamp.com/statement-of-accomplishment/track/b75695f027afb854cb11b24d35414654718bf87d?raw=1">🔗 View Credential</a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="170">
       <img src="https://www.google.com/s2/favicons?domain=elementsofai.com&sz=128" width="55" height="55"/><br>
       <b>Elements of AI</b><br>
       <sub>University of Helsinki</sub><br>
       <a href="https://certificates.mooc.fi/validate/o184xt35tr">🔗 View Credential</a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="170">
       <img src="https://www.google.com/s2/favicons?domain=sololearn.com&sz=128" width="55" height="55"/><br>
       <b>Prompt Engineering</b><br>
       <sub>SoloLearn</sub><br>
       <a href="https://www.sololearn.com/en/certificates/CC-YRKXIQTG">🔗 View Credential</a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="170">
       <img src="https://www.google.com/s2/favicons?domain=life-global.org&sz=128" width="55" height="55"/><br>
       <b>Networking for Career Growth</b><br>
       <sub>HP LIFE</sub><br>
       <a href="https://www.life-global.org/certificate/01875132-f0a9-4b1d-bef4-aa2002386ee0">🔗 View Credential</a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="170">
       <img src="https://www.google.com/s2/favicons?domain=anthropic.com&sz=128" width="55" height="55"/><br>
       <b>Claude Platform 101</b><br>
       <sub>Anthropic</sub><br>
@@ -157,31 +157,31 @@
   </tr>
 
   <tr>
-    <td align="center" width="160">
+    <td align="center" width="170">
       <img src="https://www.google.com/s2/favicons?domain=microsoft.com&sz=128" width="55" height="55"/><br>
       <b>Career Essentials in Generative AI</b><br>
       <sub>Microsoft</sub><br>
       <a href="https://www.linkedin.com/learning/certificates/3023f0c72912ba13ffcc2c8c6b13c9f598aa6d4a2196e05fa8fc37510297d3ab">🔗 View Credential</a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="170">
       <img src="https://www.google.com/s2/favicons?domain=cognitiveclass.ai&sz=128" width="55" height="55"/><br>
       <b>Python 101 for Data Science</b><br>
       <sub>IBM / Cognitive Class</sub><br>
       <a href="https://courses.cognitiveclass.ai/certificates/e33414a53abd47a0b9631b4cfe4b53e0">🔗 View Credential</a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="170">
       <img src="https://www.google.com/s2/favicons?domain=simplilearn.com&sz=128" width="55" height="55"/><br>
       <b>Intro to Front End Development</b><br>
       <sub>Simplilearn</sub><br>
       <a href="https://certificates.simplicdn.net/share/10300174_10595165_1780424168270.pdf">🔗 View Credential</a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="170">
       <img src="https://www.google.com/s2/favicons?domain=udemy.com&sz=128" width="55" height="55"/><br>
       <b>C Programming for Beginners</b><br>
       <sub>Udemy</sub><br>
       <a href="https://www.udemy.com/certificate/UC-f77df0f9-6868-49f6-a89c-70042ff9dabb/">🔗 View Credential</a>
     </td>
-    <td align="center" width="160">
+    <td align="center" width="170">
       <img src="https://www.google.com/s2/favicons?domain=digiskills.pk&sz=128" width="55" height="55"/><br>
       <b>Communication And Soft Skills</b><br>
       <sub>DigiSkills.pk</sub><br>
