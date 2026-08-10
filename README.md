@@ -116,8 +116,6 @@
 <br/><br/>
 
 
-![GitSkins Animated Heatmap](https://www.gitskins.com/api/section/heatmap?username=Salvador9111&theme=github-dark&style=aura)
-
 
 # 🚀Space Invader 
 ![Space Shooter](assets/space-shooter.gif)
