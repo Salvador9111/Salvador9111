@@ -148,7 +148,7 @@
 
   <!-- Top Languages -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvaor9111&layout=compact&theme=dracula&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&layout=compact&theme=dracula&hide_border=true"
     alt="Top Languages"
   />
 
@@ -158,7 +158,7 @@
 
   <!-- GitHub Streak -->
   <img
-    src="https://streak-stats.demolab.com/?user=Salvaor9111&theme=dracula&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Salvador9111&theme=dracula&hide_border=true"
     alt="GitHub Streak"
   />
 
