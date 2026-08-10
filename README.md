@@ -113,15 +113,41 @@
 ![Contribution Snake](https://github.com/Salvador9111/Salvador9111/blob/output/github-contribution-grid-snake.svg)
 <br/><br/>
 
-<br/><br/>
-
-
 
 # 🚀Space Invader 
 ![Space Shooter](assets/space-shooter.gif)
 
 
 <br/><br/>
+
+
+
+
+
+<div align="center">
+  <!-- Dynamic Typing Headline -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full-Stack+Developer;Always+Learning+and+Building" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <!-- Dynamic GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Salvador9111&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <!-- Dynamic Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <!-- Dynamic Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salvador9111&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+
+
 
 ## 📜 Certifications
 
