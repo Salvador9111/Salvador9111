@@ -120,33 +120,50 @@
 
 <br/><br/>
 
-<img src="https://terminal-identity-opal.vercel.app/api?username=Salvador9111&showContribs=on&contribTheme=cat_jump&contribRange=16w&contribMode=focus&motion=boot"
-  width="100%"
-  alt="Animated GitHub cat">
+
 
 
 
 <div align="center">
+
   <!-- Dynamic Typing Headline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full-Stack+Developer;Always+Learning+and+Building" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full-Stack+Developer;Always+Learning+and+Building"
+      alt="Typing SVG"
+    />
   </a>
+
 </div>
 
 ---
 
 <div align="center">
-  <!-- Dynamic GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Salvador9111&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Dynamic Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Salvador9111&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvaor9111&layout=compact&theme=dracula&hide_border=true"
+    alt="Top Languages"
+  />
+
 </div>
 
 <div align="center">
-  <!-- Dynamic Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salvador9111&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://streak-stats.demolab.com/?user=Salvaor9111&theme=dracula&hide_border=true"
+    alt="GitHub Streak"
+  />
+
 </div>
+
 
 
 
