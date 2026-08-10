@@ -120,7 +120,9 @@
 
 <br/><br/>
 
-
+<img src="https://terminal-identity-opal.vercel.app/api?username=Salvador9111&showContribs=on&contribTheme=cat_jump&contribRange=16w&contribMode=focus&motion=boot"
+  width="100%"
+  alt="Animated GitHub cat">
 
 
 
