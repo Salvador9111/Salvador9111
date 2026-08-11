@@ -124,49 +124,6 @@
 
 
 
-<div align="center">
-
-  <!-- Dynamic Typing Headline -->
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full-Stack+Developer;Always+Learning+and+Building"
-      alt="Typing SVG"
-    />
-  </a>
-
-</div>
-
----
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Salvador9111&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"
-    alt="GitHub Stats"
-  />
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador9111&layout=compact&theme=dracula&hide_border=true"
-    alt="Top Languages"
-  />
-
-</div>
-
-<div align="center">
-
-  <!-- GitHub Streak -->
-  <img
-    src="https://streak-stats.demolab.com/?user=Salvador9111&theme=dracula&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-</div>
-
-
-
-
 
 ## 📜 Certifications
 
