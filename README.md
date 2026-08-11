@@ -95,8 +95,6 @@
 
 
 
-![banner](https://raw.githubusercontent.com/Salvador9111/Salvador9111/refs/heads/main/generate_ascii_banner.py)
-
 
 
 
