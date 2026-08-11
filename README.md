@@ -95,6 +95,12 @@
 
 
 
+![banner](https://raw.githubusercontent.com/Salvador9111/Salvador9111/refs/heads/main/generate_ascii_banner.py)
+
+
+
+
+
 # 📊 GitHub Stats
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Salvador9111&theme=radical&hide_border=true" alt="GitHub Streak" />
