@@ -95,12 +95,6 @@
 
 
 
-![banner](https://raw.githubusercontent.com/Salvador9111/Salvador9111/refs/heads/main/hammad-imran-banner.svg)
-
-
-
-
-
 
 # 📊 GitHub Stats
 <a href="https://git.io/streak-stats">
@@ -123,7 +117,6 @@
 
 # 🚀Space Invader 
 ![Space Shooter](assets/space-shooter.gif)
-
 
 <br/><br/>
 
