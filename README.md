@@ -98,7 +98,7 @@
 ![banner](https://raw.githubusercontent.com/Salvador9111/Salvador9111/refs/heads/main/hammad-imran-banner.svg)
 
 
-
+![ascii](https://raw.githubusercontent.com/Salvador9111/Salvador9111/refs/heads/main/profile-ascii-animated.svg)
 
 
 
