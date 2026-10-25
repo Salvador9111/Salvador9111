@@ -93,6 +93,10 @@
 <br/><br/>
 
 
+<p align="center">
+  <img src="./deparkanoid.svg" width="100%" alt="Deparkanoid autoplay" />
+</p>
+
 
 
 # 📊 GitHub Stats
