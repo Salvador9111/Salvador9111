@@ -93,11 +93,6 @@
 <br/><br/>
 
 
-<p align="center">
-  <img src="./deparkanoid.svg" width="100%" alt="Deparkanoid autoplay" />
-</p>
-
-
 
 # 📊 GitHub Stats
 <a href="https://git.io/streak-stats">
@@ -125,6 +120,9 @@
 
 
 
+<p align="center">
+  <img src="./deparkanoid.svg" width="480" alt="Deparkanoid autoplay" />
+</p>
 
 
 
