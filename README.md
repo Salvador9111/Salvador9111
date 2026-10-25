@@ -119,9 +119,8 @@
 <br/><br/>
 
 
-
 <p align="center">
-  <img src="./deparkanoid (1).svg" width="520" alt="Deparkanoid autoplay" />
+  <img src="./deparkanoid (1).svg?v=2" width="520" alt="Deparkanoid autoplay" />
 </p>
 
 
