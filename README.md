@@ -121,9 +121,8 @@
 
 
 <p align="center">
-  <img src="./deparkanoid.svg" width="480" alt="Deparkanoid autoplay" />
+  <img src="./deparkanoid.svg" width="520" alt="Deparkanoid autoplay" />
 </p>
-
 
 
 ## 📜 Certifications
