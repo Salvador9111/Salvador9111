@@ -17,7 +17,7 @@ const PITCH = CELL + GAP;
 const PAD = 8;
 const RADIUS = 2;
 
-const ROWS = 13; // weekdays (game height)
+const ROWS = 7; // weekdays (game height)
 const DROP_MS_PER_ROW = 55; // fall speed
 const CLEAR_BLINKS = 2;
 const BLINK_S = 0.09;
