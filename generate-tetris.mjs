@@ -11,10 +11,12 @@ import { mkdirSync, writeFileSync } from "node:fs";
 
 // ---------- config ----------
 const OUT_DIR = process.env.OUT_DIR || "dist";
-const CELL = 13; // same as GitHub's graph
-const GAP = 5;
-const PITCH = CELL + GAP;
-const PAD = 8;
+const CELL_W = 11; // cell width  (raise for a wider game)
+const CELL_H = 20; // cell height (raise for a taller game)
+const GAP = 3;
+const PITCH_X = CELL_W + GAP;
+const PITCH_Y = CELL_H + GAP;
+const PAD = 10;
 const RADIUS = 2;
 
 const ROWS = 7; // weekdays (game height)
@@ -143,8 +145,8 @@ function simulate(calendar) {
 
   let grid = new Array(cols * rows).fill(-1); // holds block ids
   const blocks = [];
-  const px = (col) => PAD + col * PITCH;
-  const py = (row) => PAD + row * PITCH;
+  const px = (col) => PAD + col * PITCH_X;
+  const py = (row) => PAD + row * PITCH_Y;
 
   const fits = (cells, col, row) => {
     for (const [c, r] of cells) {
@@ -357,8 +359,8 @@ function simulate(calendar) {
 function toSvg(calendar, sim, theme) {
   const pal = PALETTES[theme];
   const cols = calendar.length;
-  const width = PAD * 2 + cols * PITCH - GAP;
-  const height = PAD * 2 + ROWS * PITCH - GAP;
+  const width = PAD * 2 + cols * PITCH_X - GAP;
+  const height = PAD * 2 + ROWS * PITCH_Y - GAP;
   const { blocks, T } = sim;
   const f = (n) => +n.toFixed(1);
 
@@ -370,7 +372,7 @@ function toSvg(calendar, sim, theme) {
   calendar.forEach((week, c) =>
     week.forEach((d, r) => {
       if (!d.exists) return;
-      out += `<rect x="${PAD + c * PITCH}" y="${PAD + r * PITCH}" width="${CELL}" height="${CELL}" rx="${RADIUS}" fill="${pal[d.level]}"/>\n`;
+      out += `<rect x="${PAD + c * PITCH_X}" y="${PAD + r * PITCH_Y}" width="${CELL_W}" height="${CELL_H}" rx="${RADIUS}" fill="${pal[d.level]}"/>\n`;
     })
   );
   out += `</g>\n`;
@@ -382,7 +384,7 @@ function toSvg(calendar, sim, theme) {
     const pos = b.frames.map((fr) => `${f(fr.x)} ${f(fr.y)}`).join(";");
     const op = b.frames.map((fr) => fr.o).join(";");
     out +=
-      `<rect width="${CELL}" height="${CELL}" rx="${RADIUS}" fill="${pal[b.level]}" opacity="0">` +
+      `<rect width="${CELL_W}" height="${CELL_H}" rx="${RADIUS}" fill="${pal[b.level]}" opacity="0">` +
       `<animateTransform attributeName="transform" type="translate" values="${pos}" keyTimes="${kt}" dur="${dur}" repeatCount="indefinite"/>` +
       `<animate attributeName="opacity" values="${op}" keyTimes="${kt}" calcMode="discrete" dur="${dur}" repeatCount="indefinite"/>` +
       `</rect>\n`;
