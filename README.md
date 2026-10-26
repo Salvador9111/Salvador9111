@@ -118,9 +118,9 @@
 
 <br/><br/>
 
-
+# 🕹️Brick Breaker
 <p align="center">
-  <img src="./deparkanoid (1).svg?v=2" width="520" alt="Deparkanoid autoplay" />
+  <img src="./deparkanoid-heatmap.svg?v=1" width="100%" alt="Contribution graph brick breaker" />
 </p>
 
 
