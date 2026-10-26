@@ -11,13 +11,13 @@ import { mkdirSync, writeFileSync } from "node:fs";
 
 // ---------- config ----------
 const OUT_DIR = process.env.OUT_DIR || "dist";
-const CELL = 14; // same as GitHub's graph
-const GAP = 4;
+const CELL = 15; // same as GitHub's graph
+const GAP = 6;
 const PITCH = CELL + GAP;
 const PAD = 8;
-const RADIUS = 2;
+const RADIUS = 3;
 
-const ROWS = 12; // weekdays (game height)
+const ROWS = 15; // weekdays (game height)
 const DROP_MS_PER_ROW = 55; // fall speed
 const CLEAR_BLINKS = 2;
 const BLINK_S = 0.09;
