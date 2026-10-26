@@ -123,7 +123,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
-  <img width="100%" alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
+  <img width="85%" alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
 </picture>
 
 <br/><br/>
@@ -131,7 +131,7 @@
 
 # 🕹️Brick Breaker
 <p align="center">
-  <img src="./deparkanoid-heatmap (2).svg?v=2" width="80%" alt="Contribution graph brick breaker" />
+  <img src="./deparkanoid-heatmap (2).svg?v=2" width="90%" alt="Contribution graph brick breaker" />
 </p>
 
 <br/><br/>
