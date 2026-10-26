@@ -13,7 +13,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 
 // ---------- config ----------
 const OUT_DIR = process.env.OUT_DIR || "dist";
-const SW = 40; // square width in px  (raise for a wider board)
+const SW = 50; // square width in px  (raise for a wider board)
 const SH = 24; // square height in px (lower for a shorter board)
 const PIECE_STRETCH = 1.2; // pieces drawn a bit wider than tall to fill the wide squares
 const PAD = 6;
