@@ -12,7 +12,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // ---------- config ----------
 const OUT_DIR = process.env.OUT_DIR || "dist";
 const CELL_W = 10; // cell width  (raise for a wider game)
-const CELL_H = 20; // cell height (raise for a taller game)
+const CELL_H = 17; // cell height (raise for a taller game)
 const GAP = 3;
 const PITCH_X = CELL_W + GAP;
 const PITCH_Y = CELL_H + GAP;
