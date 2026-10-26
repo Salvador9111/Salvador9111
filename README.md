@@ -122,7 +122,8 @@
 # 🧩Tetris
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-dark.svg">
-  <img alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
+  <img width="100%" alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
 </picture>
 
 <br/><br/>
