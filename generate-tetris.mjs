@@ -20,13 +20,13 @@ const PAD = 10;
 const RADIUS = 2;
 
 const ROWS = 7; // weekdays (game height)
-const DROP_MS_PER_ROW = 70; // fall speed
+const DROP_MS_PER_ROW = 80; // fall speed
 const CLEAR_BLINKS = 2;
 const BLINK_S = 0.09;
 const SHIFT_S = 0.14; // time for rows to collapse after a clear
 const WANDER = 0.1; // 0..1, how far pieces may slide sideways while falling
 const MAX_PIECES = 160;
-const MAX_TIME_S = 55; // loop length cap
+const MAX_TIME_S = 60; // loop length cap
 
 const PALETTES = {
   light: ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"],
