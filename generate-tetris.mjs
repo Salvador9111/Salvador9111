@@ -20,7 +20,7 @@ const PAD = 10;
 const RADIUS = 2;
 
 const ROWS = 7; // weekdays (game height)
-const DROP_MS_PER_ROW = 55; // fall speed
+const DROP_MS_PER_ROW = 70; // fall speed
 const CLEAR_BLINKS = 2;
 const BLINK_S = 0.09;
 const SHIFT_S = 0.14; // time for rows to collapse after a clear
