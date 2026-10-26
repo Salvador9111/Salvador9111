@@ -118,22 +118,22 @@
 
 <br/><br/>
 
+
+# 🧩Tetris
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-dark.svg">
+  <img alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
+</picture>
+
+<br/><br/>
+
+
 # 🕹️Brick Breaker
 <p align="center">
   <img src="./deparkanoid-heatmap (2).svg?v=2" width="100%" alt="Contribution graph brick breaker" />
 </p>
 
 <br/><br/>
-
-# 🧩Tetris
-<!-- paste into your profile README (repo: Salvador9111/Salvador9111) -->
-<!-- paste into your profile README (repo: Salvador9111/Salvador9111) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-dark.svg">
-  <img alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
-</picture>
-
-
 
 
 
