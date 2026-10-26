@@ -138,6 +138,20 @@
 
 
 
+<!-- paste into your profile README (repo: Salvador9111/Salvador9111) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-dark.svg">
+  <img width="100%" alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
+</picture>
+
+<!-- Chess (square board, so keep its natural size and center it) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/chess-dark.svg">
+    <img alt="Chess on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/chess-light.svg">
+  </picture>
+</p>
+
 
 
 ## 📜 Certifications
