@@ -129,17 +129,12 @@
 <!-- paste into your profile README (repo: Salvador9111/Salvador9111) -->
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/output/tetris-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/output/tetris-light.svg">
   <img alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/output/tetris-light.svg">
 </picture>
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/output/tetris-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/output/tetris-light.svg">
-  <img alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/output/tetris-light.svg">
-</picture>
+
 
 
 
