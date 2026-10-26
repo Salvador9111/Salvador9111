@@ -131,7 +131,7 @@
 
 # 🕹️Brick Breaker
 <p align="center">
-  <img src="./deparkanoid-heatmap (2).svg?v=2" width="100%" alt="Contribution graph brick breaker" />
+  <img src="./deparkanoid-heatmap (2).svg?v=2" width="80%" alt="Contribution graph brick breaker" />
 </p>
 
 <br/><br/>
