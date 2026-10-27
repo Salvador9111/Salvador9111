@@ -138,7 +138,7 @@
 
 
 
-# Pacman
+# 👾Pacman
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/pacman-output/pacman-dark.svg">
   <img width="95%" alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/pacman-output/pacman-light.svg">
@@ -146,6 +146,13 @@
 
 <br/><br/>
 
+
+
+# [![FlappyBird](https://cdn3.emoji.gg/emojis/17911-flappybird.gif)](https://emoji.gg/emoji/17911-flappybird)Flappy Bird
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/flappy-output/flappy-dark.svg">
+  <img width="100%" alt="Flappy Bird flying through my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/flappy-output/flappy-light.svg">
+</picture>
 
 
 # ♟️Chess
