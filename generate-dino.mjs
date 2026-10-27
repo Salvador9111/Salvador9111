@@ -246,9 +246,6 @@ function toSvg(calendar, sim, theme) {
   );
   out += `</g>\n`;
 
-  // ground line
-  out += `<line x1="${PAD}" y1="${groundY + 2}" x2="${WIDTH - PAD}" y2="${groundY + 2}" stroke="${pal.dino}" stroke-width="1.2" stroke-dasharray="14 3 4 3 22 3" opacity="0.7"/>\n`;
-
   // cacti built from heatmap cells (brightest cell on top)
   for (const c of cacti) {
     for (let k = 0; k < CACTUS_COLS; k++) {
@@ -259,18 +256,6 @@ function toSvg(calendar, sim, theme) {
         out += `<rect x="${x}" y="${PAD + r * PITCH_Y}" width="${CELL_W}" height="${CELL_H}" rx="2" fill="${pal.levels[topCell ? 4 : 3]}"/>\n`;
       }
     }
-  }
-
-  // score (one label per value, shown between cactus passes)
-  const times = [0, ...cacti.filter((c) => c.passT !== null).map((c) => c.passT), T];
-  for (let s = 0; s < times.length - 1; s++) {
-    const a = +(times[s] / T).toFixed(5);
-    const b = +(times[s + 1] / T).toFixed(5);
-    const values = s === 0 ? "1;0;0" : "0;1;0;0";
-    const keys = s === 0 ? `0;${b};1` : `0;${a};${b};1`;
-    out +=
-      `<text x="${WIDTH - PAD - 4}" y="${PAD + 15}" text-anchor="end" font-family="'Courier New',Consolas,monospace" font-size="14" font-weight="700" fill="${pal.text}" stroke="${pal.panel}" stroke-width="3" paint-order="stroke" opacity="${s === 0 ? 1 : 0}">` +
-      `Score ${String(s).padStart(2, "0")}<animate attributeName="opacity" values="${values}" keyTimes="${keys}" calcMode="discrete" ${rep}/></text>\n`;
   }
 
   // dino (origin = feet center)
