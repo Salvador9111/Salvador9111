@@ -173,12 +173,6 @@
 
 
 
-# 👻Doodle Jump
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/doodle-output/doodle-dark.svg">
-  <img width="100%" alt="Doodle Jump bouncing across my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/doodle-output/doodle-light.svg">
-</picture>
-
 
 
 
