@@ -122,7 +122,7 @@
 # 🧩Tetris Game 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-dark.svg">
-  <img width="87%" alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
+  <img width="88%" alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
 </picture>
 
 <br/><br/>
@@ -170,6 +170,16 @@
 
 
 <br/><br/>
+
+
+
+# 👻Doodle Jump
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/doodle-output/doodle-dark.svg">
+  <img width="100%" alt="Doodle Jump bouncing across my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/doodle-output/doodle-light.svg">
+</picture>
+
+
 
 
 
