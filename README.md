@@ -173,10 +173,6 @@
 
 
 
-
-
-
-
 # ♟️Chess Board
 <p align="center">
   <picture>
@@ -184,6 +180,13 @@
     <img alt="Chess on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/chess-output/chess-light.svg">
   </picture>
 </p>
+
+
+<br/><br/>
+
+# ☠️Doom
+<img width="100%" alt="Doom-style shooter fighting my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/shooter-output/shooter.svg">
+
 
 
 
