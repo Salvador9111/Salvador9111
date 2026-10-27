@@ -147,6 +147,15 @@
 </p>
 
 
+# Pacman
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/pacman-output/pacman-dark.svg">
+  <img width="95%" alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/pacman-output/pacman-light.svg">
+</picture>
+
+<br/><br/>
+
+
 
 ## 📜 Certifications
 
