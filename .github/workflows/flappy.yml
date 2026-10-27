@@ -1,0 +1,46 @@
+name: Generate Flappy Bird contribution game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # every day at 00:00 UTC
+  workflow_dispatch:          # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths:
+      - generate-flappy.mjs
+      - .github/workflows/flappy.yml
+
+permissions:
+  contents: write             # needed to push to the flappy-output branch
+
+concurrency:
+  group: flappy
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20     # script uses fetch + top-level await
+
+      - name: Generate SVGs
+        env:
+          GITHUB_TOKEN: ${{ secrets.FLAPPY_TOKEN || github.token }}
+          OUT_DIR: dist
+        run: node generate-flappy.mjs ${{ github.repository_owner }}
+
+      - name: Push to flappy-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: flappy-output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
