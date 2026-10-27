@@ -119,7 +119,7 @@
 <br/><br/>
 
 
-# 🧩Tetris
+# 🧩Tetris Game 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-dark.svg">
   <img width="87%" alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
@@ -148,6 +148,8 @@
 
 
 
+
+
 # 🐤Flappy Bird
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/flappy-output/flappy-dark.svg">
@@ -155,7 +157,23 @@
 </picture>
 
 
-# ♟️Chess
+<br/><br/>
+
+
+
+
+# 🦖Dino Runner
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/dino-output/dino-dark.svg">
+  <img width="100%" alt="Chrome Dino running through my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/dino-output/dino-light.svg">
+</picture>
+
+
+<br/><br/>
+
+
+
+# ♟️Chess Board
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/chess-output/chess-dark.svg">
