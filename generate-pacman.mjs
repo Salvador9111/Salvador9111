@@ -15,11 +15,11 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // ---------- config ----------
 const OUT_DIR = process.env.OUT_DIR || "dist";
 const CELL_W = 13; // cell width
-const CELL_H = 17; // cell height (raise for a taller game)
+const CELL_H = 16.4; // cell height (raise for a taller game)
 const GAP = 3;
 const PITCH_X = CELL_W + GAP;
 const PITCH_Y = CELL_H + GAP;
-const CHAR_SCALE = 1.3; // size of Pac-Man and the ghosts
+const CHAR_SCALE = 1.2; // size of Pac-Man and the ghosts
 const PAD = 8;
 const TICK_S = 0.16; // time Pac-Man takes to move one cell
 const START_S = 0.8;
