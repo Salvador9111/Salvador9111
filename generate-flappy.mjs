@@ -262,8 +262,6 @@ function toSvg(calendar, sim, theme) {
     }
   }
 
-  
-
   // bird
   const pos = frames.map((f) => `${f1(f.x)} ${f1(f.y)}`).join(";");
   const rot = frames.map((f) => f1(f.rot)).join(";");
