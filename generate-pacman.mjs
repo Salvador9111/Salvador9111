@@ -15,7 +15,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // ---------- config ----------
 const OUT_DIR = process.env.OUT_DIR || "dist";
 const CELL_W = 13; // cell width
-const CELL_H = 16.4; // cell height (raise for a taller game)
+const CELL_H = 16; // cell height (raise for a taller game)
 const GAP = 3;
 const PITCH_X = CELL_W + GAP;
 const PITCH_Y = CELL_H + GAP;
