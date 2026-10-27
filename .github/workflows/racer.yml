@@ -1,0 +1,49 @@
+# Save as: .github/workflows/racer.yml  (repo: Salvador9111/Salvador9111)
+name: Generate Neon Racer
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # every day at 00:00 UTC
+  workflow_dispatch:          # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths:
+      - generate-racer.mjs
+      - .github/workflows/racer.yml
+
+permissions:
+  contents: write             # needed to push to the racer-output branch
+
+concurrency:
+  group: racer
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20     # script uses fetch + top-level await
+
+      - name: Generate SVGs
+        env:
+          # Optional: a PAT with read:user (secret FLAPPY_TOKEN, same one as the other game workflows)
+          # adds private contributions. Falls back to the default token (public only).
+          GITHUB_TOKEN: ${{ secrets.FLAPPY_TOKEN || github.token }}
+          OUT_DIR: dist
+        run: node generate-racer.mjs ${{ github.repository_owner }}
+
+      - name: Push to racer-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: racer-output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
