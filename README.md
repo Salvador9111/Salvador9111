@@ -122,8 +122,7 @@
 # 🧩Tetris
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
-  <img width="85%" alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
+  <img width="100%" alt="Tetris playing on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/tetris-output/tetris-light.svg">
 </picture>
 
 <br/><br/>
@@ -137,14 +136,6 @@
 <br/><br/>
 
 
-# ♟️Chess
-<!-- paste into your profile README (repo: Salvador9111/Salvador9111) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/chess-output/chess-dark.svg">
-    <img alt="Chess on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/chess-output/chess-light.svg">
-  </picture>
-</p>
 
 
 # Pacman
@@ -154,6 +145,16 @@
 </picture>
 
 <br/><br/>
+
+
+
+# ♟️Chess
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/chess-output/chess-dark.svg">
+    <img alt="Chess on my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/chess-output/chess-light.svg">
+  </picture>
+</p>
 
 
 
