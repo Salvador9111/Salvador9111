@@ -148,7 +148,7 @@
 
 
 
-# [![FlappyBird](https://cdn3.emoji.gg/emojis/17911-flappybird.gif)](https://emoji.gg/emoji/17911-flappybird)Flappy Bird
+# 🐤Flappy Bird
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/flappy-output/flappy-dark.svg">
   <img width="100%" alt="Flappy Bird flying through my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/flappy-output/flappy-light.svg">
