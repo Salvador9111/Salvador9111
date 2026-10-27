@@ -1,0 +1,49 @@
+# Save as: .github/workflows/dino.yml  (repo: Salvador9111/Salvador9111)
+name: Generate Dino Runner contribution game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # every day at 00:00 UTC
+  workflow_dispatch:          # manual "Run workflow" button
+  push:
+    branches: [main]
+    paths:
+      - generate-dino.mjs
+      - .github/workflows/dino.yml
+
+permissions:
+  contents: write             # needed to push to the dino-output branch
+
+concurrency:
+  group: dino
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20     # script uses fetch + top-level await
+
+      - name: Generate SVGs
+        env:
+          # Optional: a PAT with read:user (secret FLAPPY_TOKEN, same one as the flappy workflow)
+          # adds private contributions. Falls back to the default token (public only).
+          GITHUB_TOKEN: ${{ secrets.FLAPPY_TOKEN || github.token }}
+          OUT_DIR: dist
+        run: node generate-dino.mjs ${{ github.repository_owner }}
+
+      - name: Push to dino-output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: dino-output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
