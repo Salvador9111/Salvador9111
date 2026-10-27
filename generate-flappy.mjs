@@ -25,7 +25,7 @@ const MAX_PIPES = 9;
 const MIN_SPACING = 6; // min columns between pipe starts
 const GAP_ROWS = 3; // gap height in cells
 const SPEED = 74; // bird speed in px/s (left -> right), lower = slower
-const BIRD_R = 8;
+const BIRD_R = 7.3;
 const GRAVITY = 700;
 const FLAP_V = -170;
 const START_HOLD_S = 0.8;
@@ -271,8 +271,8 @@ function toSvg(calendar, sim, theme) {
     const keys = s === 0 ? `0;${b};1` : `0;${a};${b};1`;
     out +=
       `<text x="${PAD + 4}" y="${PAD + 15}" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="${pal.text}" stroke="${pal.panel}" stroke-width="3" paint-order="stroke" opacity="${s === 0 ? 1 : 0}">` +
-      `Score ${s}<animate attributeName="opacity" values="${values}" keyTimes="${keys}" calcMode="discrete" ${rep}/></text>\n`;
-  }
+      `${s}<animate attributeName="opacity" values="${values}" keyTimes="${keys}" calcMode="discrete" ${rep}/></text>\n`;
+        }
 
   // bird
   const pos = frames.map((f) => `${f1(f.x)} ${f1(f.y)}`).join(";");
