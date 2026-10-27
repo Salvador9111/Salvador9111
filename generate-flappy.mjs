@@ -24,8 +24,8 @@ const PIPE_COLS = 2; // pipe width in heatmap columns
 const MAX_PIPES = 9;
 const MIN_SPACING = 6; // min columns between pipe starts
 const GAP_ROWS = 3; // gap height in cells
-const SPEED = 75; // bird speed in px/s (left -> right), lower = slower
-const BIRD_R = 7;
+const SPEED = 74; // bird speed in px/s (left -> right), lower = slower
+const BIRD_R = 8;
 const GRAVITY = 700;
 const FLAP_V = -170;
 const START_HOLD_S = 0.8;
