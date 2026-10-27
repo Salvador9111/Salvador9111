@@ -262,17 +262,7 @@ function toSvg(calendar, sim, theme) {
     }
   }
 
-  // score (one label per value, shown between pipe passes)
-  const times = [0, ...pipes.filter((p) => p.passT !== null).map((p) => p.passT), T];
-  for (let s = 0; s < times.length - 1; s++) {
-    const a = +(times[s] / T).toFixed(5);
-    const b = +(times[s + 1] / T).toFixed(5);
-    const values = s === 0 ? "1;0;0" : "0;1;0;0";
-    const keys = s === 0 ? `0;${b};1` : `0;${a};${b};1`;
-    out +=
-      `<text x="${PAD + 4}" y="${PAD + 15}" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="700" fill="${pal.text}" stroke="${pal.panel}" stroke-width="3" paint-order="stroke" opacity="${s === 0 ? 1 : 0}">` +
-      `${s}<animate attributeName="opacity" values="${values}" keyTimes="${keys}" calcMode="discrete" ${rep}/></text>\n`;
-        }
+  
 
   // bird
   const pos = frames.map((f) => `${f1(f.x)} ${f1(f.y)}`).join(";");
