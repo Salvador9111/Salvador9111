@@ -188,6 +188,11 @@
 <img width="100%" alt="Doom-style shooter fighting my contribution graph" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/shooter-output/shooter.svg">
 
 
+# 🏎️Racer Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Salvador9111/Salvador9111/racer-output/racer-dark.svg">
+  <img width="100%" alt="Neon Racer: a racing and shooting game on my GitHub contribution skyline" src="https://raw.githubusercontent.com/Salvador9111/Salvador9111/racer-output/racer-dark.svg">
+</picture>
 
 
 ## 📜 Certifications
