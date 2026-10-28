@@ -201,10 +201,11 @@
 
 # 🛰️Space Fight 
 <img width="100%" alt="Space dogfight" src="./spacefight.svg">
+<br/><br/>
 
 
 
-## 📜 Certifications
+# 📜 Certifications
 
 <table>
   <tr>
