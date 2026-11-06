@@ -44,13 +44,6 @@
 
 
 <br/><br/>
-HTML / LIGHT + DARK
-<a href="https://git-receipts.vercel.app/?user=Salvador9111&amp;year=2026&amp;stamp=true">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://git-receipts.vercel.app/api/receipt.svg?year=2026&amp;stamp=true&amp;user=Salvador9111&amp;theme=dark">
-    <img src="https://git-receipts.vercel.app/api/receipt.svg?year=2026&amp;stamp=true&amp;user=Salvador9111&amp;theme=light" alt="@Salvador9111&#39;s 2026 GitHub contribution receipt">
-  </picture>
-</a>
 <br/><br/>
 
 
